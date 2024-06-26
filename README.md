@@ -2,10 +2,10 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)]()
 [![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)]()
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Demo-%20Hugging%20Face-ED7D31)]()
+[![Hugging Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Demo-%20Hugging%20Face-ED7D31)]()
 
 
-This repository is the implementation of
+This repository is the official tools for
 
 ### Multi-Object Hallucination in Vision-Language Models
 
@@ -21,10 +21,10 @@ This repository is the implementation of
 
 <sup>*</sup>*Equal contribution*
 
-### [Project page]() | [Paper]() | [Demo]()
+### [Project page]() | [Paper]() | [Dataset]()
 ## Updates🔥 
 
-- Our dataset ROPE is released and you can checkout our [paper](https://arxiv.org/abs/2406.05132) as well!
+- Our dataset ROPE is released and you can checkout our [paper]() as well!
 
 ## Overview 📖
 
@@ -41,31 +41,31 @@ We hope to enable LVLMs to recognize and reason about multiple objects that ofte
 ### 1. Clone Repo
 
 ```
-git clone https://github.com/3d-grand/3d_grand_demo.git
-cd 3d_grand_demo
+git clone https://github.com/sled-group/moh.git
+cd moh
 ```
 
 ### 2. Prepare Environment
 
 ```
-conda create -n mind_wandering python=3.10
-conda activate mind_wandering
-conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
-pip install protobuf
-pip install sentencepiece
-pip install accelerate
-pip install bitsandbytes  # optional, for 34B support
+conda create -n moh python=3.11
+conda activate moh
+pip install -r environment.yml
 ```
 
+### 3. 🤗Download Dataset
 
-### 🤗 Gradio Link
-
-We provide a Gradio Demo to demonstrate our method with UI.
+We provide a Gradio repository to download ROPE, our dataset for testing multi-Object hallucination in VLMs.
 
 ```
-gradio 3d-grand-demo.py
+git lfs install
 ```
-Alternatively, you can try the online demo hosted on Hugging Face: [[demo link]](https://huggingface.co/).
+
+Alternatively, you can try to download via the google drive [[Google Drive]]().
+
+### 4. Test your own Models
+
+### 5. Submit Issues
 
 ## Citation :fountain_pen: 
 
