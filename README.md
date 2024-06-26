@@ -1,8 +1,8 @@
 # Multi-Object Hallucination in Vision-Language Models
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)]()
-[![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)]()
-[![Hugging Dataset](https://img.shields.io/badge/huggingface-dataset:ROPE-green)]()
+[![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)](https://multi-object-hallucination.github.io/)
+[![Hugging Dataset](https://img.shields.io/badge/huggingface-dataset:ROPE-green)](https://huggingface.co/datasets/sled-umich/ROPE)
 
 
 This repository is the official tools for
@@ -21,10 +21,11 @@ This repository is the official tools for
 
 <sup>*</sup>*Equal contribution*
 
-### [Project page]() | [Paper]() | [Dataset]()
+### [Project page](https://multi-object-hallucination.github.io/) | [Paper]() | [Dataset](https://huggingface.co/datasets/sled-umich/ROPE)
 ## Updates🔥 
 
-- Our dataset ROPE is released and you can checkout our [paper]() as well!
+- This paper has been accepted to ALVR @ ACL 2024!
+- Our dataset ROPE is released!
 
 ## Overview 📖
 
