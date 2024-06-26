@@ -1,2482 +1,0 @@
-Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
-Loading checkpoint shards:   0%|          | 0/7 [00:00<?, ?it/s]Loading checkpoint shards:  14%|█▍        | 1/7 [00:01<00:07,  1.27s/it]Loading checkpoint shards:  29%|██▊       | 2/7 [00:02<00:05,  1.12s/it]Loading checkpoint shards:  43%|████▎     | 3/7 [00:03<00:04,  1.09s/it]Loading checkpoint shards:  57%|█████▋    | 4/7 [00:04<00:03,  1.08s/it]Loading checkpoint shards:  71%|███████▏  | 5/7 [00:05<00:02,  1.07s/it]Loading checkpoint shards:  86%|████████▌ | 6/7 [00:06<00:01,  1.07s/it]Loading checkpoint shards: 100%|██████████| 7/7 [00:07<00:00,  1.11s/it]Loading checkpoint shards: 100%|██████████| 7/7 [00:07<00:00,  1.10s/it]
-Settings:   0%|          | 0/4 [00:00<?, ?it/s]
-Data Types for default:   0%|          | 0/2 [00:00<?, ?it/s][A
-
-Files for train:   0%|          | 0/5 [00:00<?, ?it/s][A[A
-
-
-Entries for AAAAB_data.json:   0%|          | 0/168 [00:00<?, ?it/s][A[A[Apredicted_class:  ['person,obj2:chair,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   1%|          | 1/168 [00:01<05:33,  2.00s/it][A[A[Apredicted_class:  ['rock,obj2:rock,obj3:rock,obj4:plant,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   1%|          | 2/168 [00:03<04:28,  1.62s/it][A[A[Apredicted_class:  ['rock,obj2:rock,obj3:rock,obj4:rock,obj5:mountain', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   2%|▏         | 3/168 [00:04<04:06,  1.50s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   2%|▏         | 4/168 [00:05<03:39,  1.34s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   3%|▎         | 5/168 [00:06<03:12,  1.18s/it][A[A[Apredicted_class:  ['vase,obj2:vase,obj3:vase,obj4:vase,obj5:vase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   4%|▎         | 6/168 [00:07<02:54,  1.08s/it][A[A[Apredicted_class:  ['chair,obj2:cabinet,obj3:window,obj4:refrigerator,obj5:drawer', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   4%|▍         | 7/168 [00:08<02:54,  1.09s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:chair,obj4:table,obj5:floor', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   5%|▍         | 8/168 [00:09<02:43,  1.02s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   5%|▌         | 9/168 [00:10<02:41,  1.02s/it][A[A[Apredicted_class:  ['box,obj2:shelf,obj3:box,obj4:shelf,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   6%|▌         | 10/168 [00:11<02:40,  1.01s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   7%|▋         | 11/168 [00:12<02:55,  1.12s/it][A[A[Apredicted_class:  ['car,obj2:car,obj3:car,obj4:car,obj5:sign', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   7%|▋         | 12/168 [00:14<03:04,  1.18s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:building,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   8%|▊         | 13/168 [00:15<02:54,  1.13s/it][A[A[Apredicted_class:  ['car,obj2:building,obj3:chair,obj4:table,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   8%|▊         | 14/168 [00:16<03:03,  1.19s/it][A[A[Apredicted_class:  ['building,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:   9%|▉         | 15/168 [00:17<03:09,  1.24s/it][A[A[Apredicted_class:  ['chair,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  10%|▉         | 16/168 [00:19<03:13,  1.27s/it][A[A[Apredicted_class:  ['chair,obj2:table,obj3:cabinet,obj4:cabinet,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  10%|█         | 17/168 [00:20<03:08,  1.25s/it][A[A[Apredicted_class:  ['stove,obj2:microwaveoven,obj3:dishwasher,obj4:cabinet,obj5:drawer', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  11%|█         | 18/168 [00:21<02:57,  1.18s/it][A[A[Apredicted_class:  ['dishwasher,obj2:microwave,obj3:oven,obj4:microwave,obj5:oven', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  11%|█▏        | 19/168 [00:22<02:48,  1.13s/it][A[A[Apredicted_class:  ['building,obj2:column,obj3:book,obj4:shelf,obj5:lightsource', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  12%|█▏        | 20/168 [00:23<02:37,  1.07s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  12%|█▎        | 21/168 [00:24<02:33,  1.05s/it][A[A[Apredicted_class:  ['armchair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  13%|█▎        | 22/168 [00:25<02:47,  1.14s/it][A[A[Apredicted_class:  ['door,obj2:pot,obj3:plant,obj4:flower,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  14%|█▎        | 23/168 [00:27<02:54,  1.20s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  14%|█▍        | 24/168 [00:28<02:51,  1.19s/it][A[A[Apredicted_class:  ['door,obj2:window,obj3:roof,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  15%|█▍        | 25/168 [00:29<02:42,  1.14s/it][A[A[Apredicted_class:  ['cabinet,obj2:book,obj3:book,obj4:book,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  15%|█▌        | 26/168 [00:30<02:30,  1.06s/it][A[A[Apredicted_class:  ['plant,obj2:plant,obj3:plant,obj4:plant,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  16%|█▌        | 27/168 [00:31<02:40,  1.14s/it][A[A[Apredicted_class:  ['plant,obj2:tree,obj3:plant,obj4:plant,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  17%|█▋        | 28/168 [00:32<02:33,  1.10s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  17%|█▋        | 29/168 [00:33<02:43,  1.17s/it][A[A[Apredicted_class:  ['building,obj2:window,obj3:window,obj4:atm,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  18%|█▊        | 30/168 [00:35<02:49,  1.23s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  18%|█▊        | 31/168 [00:36<02:52,  1.26s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  19%|█▉        | 32/168 [00:37<02:55,  1.29s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:door', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  20%|█▉        | 33/168 [00:39<02:54,  1.30s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:tree,obj5:rock', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  20%|██        | 34/168 [00:40<02:42,  1.21s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  21%|██        | 35/168 [00:41<02:32,  1.15s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  21%|██▏       | 36/168 [00:42<02:26,  1.11s/it][A[A[Apredicted_class:  ['picture,obj2:chair,obj3:picture,obj4:picture,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  22%|██▏       | 37/168 [00:43<02:21,  1.08s/it][A[A[Apredicted_class:  ['armchair,obj2:armchair,obj3:armchair,obj4:armchair,obj5:armchair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  23%|██▎       | 38/168 [00:44<02:24,  1.11s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  23%|██▎       | 39/168 [00:45<02:19,  1.08s/it][A[A[Apredicted_class:  ['picture,obj2:picture,obj3:picture,obj4:picture,obj5:sofa', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  24%|██▍       | 40/168 [00:46<02:15,  1.06s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  24%|██▍       | 41/168 [00:47<02:12,  1.05s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:door,obj5:door', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  25%|██▌       | 42/168 [00:48<02:10,  1.04s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  26%|██▌       | 43/168 [00:49<02:08,  1.03s/it][A[A[Apredicted_class:  ['chair,obj2:cabinet,obj3:drawer,obj4:pot,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  26%|██▌       | 44/168 [00:50<02:07,  1.02s/it][A[A[Apredicted_class:  ['door,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  27%|██▋       | 45/168 [00:51<02:05,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  27%|██▋       | 46/168 [00:52<02:04,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  28%|██▊       | 47/168 [00:53<02:03,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:chair,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  29%|██▊       | 48/168 [00:54<02:02,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:tree', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  29%|██▉       | 49/168 [00:55<02:00,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  30%|██▉       | 50/168 [00:56<01:59,  1.02s/it][A[A[Apredicted_class:  ['column,obj2:column,obj3:column,obj4:column,obj5:column', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  30%|███       | 51/168 [00:57<01:58,  1.02s/it][A[A[Apredicted_class:  ['cushion,obj2:cushion,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  31%|███       | 52/168 [00:58<01:53,  1.02it/s][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:building,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  32%|███▏      | 53/168 [00:59<01:53,  1.01it/s][A[A[Apredicted_class:  ['plant,obj2:plant,obj3:plant,obj4:plant,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  32%|███▏      | 54/168 [01:00<01:53,  1.00it/s][A[A[Apredicted_class:  ['building,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  33%|███▎      | 55/168 [01:01<01:53,  1.00s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  33%|███▎      | 56/168 [01:02<01:52,  1.01s/it][A[A[Apredicted_class:  ['table,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  34%|███▍      | 57/168 [01:03<01:51,  1.01s/it][A[A[Apredicted_class:  ['painting,obj2:painting,obj3:painting,obj4:painting,obj5:painting', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  35%|███▍      | 58/168 [01:04<01:51,  1.01s/it][A[A[Apredicted_class:  ['mountain,obj2:mountain,obj3:mountain,obj4:mountain,obj5:mountain', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  35%|███▌      | 59/168 [01:05<01:50,  1.01s/it][A[A[Apredicted_class:  ['building,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  36%|███▌      | 60/168 [01:06<01:49,  1.01s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:door,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  36%|███▋      | 61/168 [01:07<01:48,  1.02s/it][A[A[Apredicted_class:  ['child,obj2:person,obj3:child,obj4:child,obj5:adult', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  37%|███▋      | 62/168 [01:08<01:48,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  38%|███▊      | 63/168 [01:09<01:46,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  38%|███▊      | 64/168 [01:10<01:45,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:drawer,obj3:cabinet,obj4:cabinet,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  39%|███▊      | 65/168 [01:11<01:44,  1.02s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:building,obj5:buildingbutsincethequestionspecifiesidentifyingobjectswithintheredboundingboxesandnonematchthegivenclasses,thisresponseisbasedontheassumptionthatthetaskistoidentifythebuildingsasbuilding', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  39%|███▉      | 66/168 [01:17<04:13,  2.49s/it][A[A[Apredicted_class:  ['column,obj2:window,obj3:window,obj4:window,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  40%|███▉      | 67/168 [01:18<03:26,  2.05s/it][A[A[Apredicted_class:  ['plant,obj2:plant,obj3:plant,obj4:rock,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  40%|████      | 68/168 [01:19<02:53,  1.74s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  41%|████      | 69/168 [01:20<02:30,  1.52s/it][A[A[Apredicted_class:  ['bus,obj2:bus,obj3:bus,obj4:bus,obj5:bus', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  42%|████▏     | 70/168 [01:21<02:14,  1.37s/it][A[A[Apredicted_class:  ['chair,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  42%|████▏     | 71/168 [01:22<02:02,  1.27s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  43%|████▎     | 72/168 [01:23<01:54,  1.19s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:chair,obj4:table,obj5:lightsource', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  43%|████▎     | 73/168 [01:24<01:49,  1.15s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  44%|████▍     | 74/168 [01:25<01:44,  1.11s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  45%|████▍     | 75/168 [01:26<01:40,  1.08s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:building,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  45%|████▌     | 76/168 [01:27<01:34,  1.03s/it][A[A[Apredicted_class:  ['window,obj2:door,obj3:washingmachine,obj4:cabinet,obj5:floor', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  46%|████▌     | 77/168 [01:28<01:33,  1.03s/it][A[A[Apredicted_class:  ['martialartist,obj2:martialartist,obj3:martialartist,obj4:martialartist,obj5:martialartist', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  46%|████▋     | 78/168 [01:32<02:53,  1.93s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  47%|████▋     | 79/168 [01:34<02:36,  1.76s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  48%|████▊     | 80/168 [01:35<02:17,  1.56s/it][A[A[Apredicted_class:  ['cabinet,obj2:cabinet,obj3:cabinet,obj4:cabinet,obj5:dishwasher', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  48%|████▊     | 81/168 [01:36<02:01,  1.40s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  49%|████▉     | 82/168 [01:37<01:50,  1.28s/it][A[A[Apredicted_class:  ['bottle,obj2:box,obj3:shelf,obj4:box,obj5:shelf', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  49%|████▉     | 83/168 [01:38<01:42,  1.20s/it][A[A[Apredicted_class:  ['car,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  50%|█████     | 84/168 [01:39<01:36,  1.15s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  51%|█████     | 85/168 [01:40<01:31,  1.11s/it][A[A[Apredicted_class:  ['painting,obj2:easel,obj3:painting,obj4:painting,obj5:painting', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  51%|█████     | 86/168 [01:41<01:29,  1.09s/it][A[A[Apredicted_class:  ['box,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  52%|█████▏    | 87/168 [01:42<01:23,  1.03s/it][A[A[Apredicted_class:  ['armchair,obj2:window,obj3:sofa,obj4:window,obj5:ceiling', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  52%|█████▏    | 88/168 [01:43<01:23,  1.04s/it][A[A[Apredicted_class:  ['door,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  53%|█████▎    | 89/168 [01:44<01:21,  1.03s/it][A[A[Apredicted_class:  ['tree,obj2:tree,obj3:road,obj4:tree,obj5:mountain', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  54%|█████▎    | 90/168 [01:45<01:20,  1.03s/it][A[A[Apredicted_class:  ['book,obj2:picture,obj3:book,obj4:chair,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  54%|█████▍    | 91/168 [01:46<01:18,  1.02s/it][A[A[Apredicted_class:  ['armchair,obj2:armchair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  55%|█████▍    | 92/168 [01:47<01:19,  1.04s/it][A[A[Apredicted_class:  ['building,obj2:window,obj3:door,obj4:window,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  55%|█████▌    | 93/168 [01:48<01:17,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:sign,obj4:person,obj5:sign', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  56%|█████▌    | 94/168 [01:49<01:16,  1.03s/it][A[A[Apredicted_class:  ['car,obj2:car,obj3:car,obj4:car,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  57%|█████▋    | 95/168 [01:50<01:14,  1.03s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:glass,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  57%|█████▋    | 96/168 [01:51<01:13,  1.03s/it][A[A[Apredicted_class:  ['chair,obj2:picture,obj3:picture,obj4:picture,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  58%|█████▊    | 97/168 [01:52<01:12,  1.02s/it][A[A[Apredicted_class:  ['car,obj2:car,obj3:car,obj4:car,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  58%|█████▊    | 98/168 [01:53<01:11,  1.02s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  59%|█████▉    | 99/168 [01:54<01:10,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  60%|█████▉    | 100/168 [01:55<01:09,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  60%|██████    | 101/168 [01:56<01:08,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:drawer,obj3:drawer,obj4:cabinet,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  61%|██████    | 102/168 [01:57<01:07,  1.02s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:building,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  61%|██████▏   | 103/168 [01:58<01:06,  1.02s/it][A[A[Apredicted_class:  ['armchair,obj2:chair,obj3:box,obj4:cushion,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  62%|██████▏   | 104/168 [01:59<01:05,  1.03s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:ceiling', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  62%|██████▎   | 105/168 [02:00<01:04,  1.03s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:shelf', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  63%|██████▎   | 106/168 [02:01<01:03,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:building,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  64%|██████▎   | 107/168 [02:02<01:02,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:cabinet,obj3:drawer,obj4:cabinet,obj5:ceiling', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  64%|██████▍   | 108/168 [02:03<01:01,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:cabinet,obj3:cabinet,obj4:cabinet,obj5:column', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  65%|██████▍   | 109/168 [02:04<01:00,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:pole,obj3:pot,obj4:plant,obj5:fence', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  65%|██████▌   | 110/168 [02:05<00:59,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:sign', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  66%|██████▌   | 111/168 [02:06<00:58,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:person,obj4:person,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  67%|██████▋   | 112/168 [02:07<00:57,  1.02s/it][A[A[Apredicted_class:  ['seat,obj2:seat,obj3:seat,obj4:seat,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  67%|██████▋   | 113/168 [02:08<00:56,  1.02s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  68%|██████▊   | 114/168 [02:09<00:55,  1.02s/it][A[A[Apredicted_class:  ['broccoli,obj2:broccoli,obj3:broccoli,obj4:broccoli,obj5:broccoli', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  68%|██████▊   | 115/168 [02:10<00:54,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  69%|██████▉   | 116/168 [02:12<00:53,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:umbrella,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  70%|██████▉   | 117/168 [02:13<00:52,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  70%|███████   | 118/168 [02:13<00:49,  1.01it/s][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:carrot,obj5:orange', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  71%|███████   | 119/168 [02:14<00:48,  1.00it/s][A[A[Apredicted_class:  ['clock,obj2:clock,obj3:monitor,obj4:monitor,obj5:monitor', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  71%|███████▏  | 120/168 [02:15<00:48,  1.00s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  72%|███████▏  | 121/168 [02:16<00:47,  1.01s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:kite', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  73%|███████▎  | 122/168 [02:18<00:46,  1.01s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  73%|███████▎  | 123/168 [02:19<00:45,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  74%|███████▍  | 124/168 [02:20<00:44,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:surfboard,obj3:surfboard,obj4:surfboard,obj5:surfboard', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  74%|███████▍  | 125/168 [02:21<00:45,  1.06s/it][A[A[Apredicted_class:  ['sheep,obj2:sheep,obj3:chicken,obj4:sheep,obj5:sheep', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  75%|███████▌  | 126/168 [02:22<00:43,  1.04s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  76%|███████▌  | 127/168 [02:23<00:42,  1.04s/it][A[A[Apredicted_class:  ['vase,obj2:vase,obj3:vase,obj4:vase,obj5:vase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  76%|███████▌  | 128/168 [02:24<00:41,  1.03s/it][A[A[Apredicted_class:  ['', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  77%|███████▋  | 129/168 [02:28<01:17,  1.98s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  77%|███████▋  | 130/168 [02:29<01:04,  1.69s/it][A[A[Apredicted_class:  ['surfboard,obj2:surfboard,obj3:surfboard,obj4:surfboard,obj5:surfboard', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  78%|███████▊  | 131/168 [02:30<00:56,  1.54s/it][A[A[Apredicted_class:  ['watermelon,obj2:watermelon,obj3:watermelon,obj4:banana,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  79%|███████▊  | 132/168 [02:31<00:50,  1.41s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  79%|███████▉  | 133/168 [02:32<00:45,  1.30s/it][A[A[Apredicted_class:  ['donut,obj2:donut,obj3:donut,obj4:donut,obj5:donut', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  80%|███████▉  | 134/168 [02:33<00:42,  1.26s/it][A[A[Apredicted_class:  ['wineglass,obj2:wineglass,obj3:wineglass,obj4:wineglass,obj5:wineglass', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  80%|████████  | 135/168 [02:35<00:40,  1.24s/it][A[A[Apredicted_class:  ['suitcase,obj2:suitcase,obj3:suitcase,obj4:suitcase,obj5:suitcase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  81%|████████  | 136/168 [02:36<00:37,  1.18s/it][A[A[Apredicted_class:  ['sheep,obj2:sheep,obj3:sheep,obj4:sheep,obj5:sheep', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  82%|████████▏ | 137/168 [02:37<00:35,  1.13s/it][A[A[Apredicted_class:  ['donut,obj2:donut,obj3:donut,obj4:donut,obj5:sodacan', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  82%|████████▏ | 138/168 [02:38<00:34,  1.15s/it][A[A[Apredicted_class:  ['pizza,obj2:pizza,obj3:pizza,obj4:pizza,obj5:pizza', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  83%|████████▎ | 139/168 [02:39<00:31,  1.07s/it][A[A[Apredicted_class:  ['sheep,obj2:sheep,obj3:sheep,obj4:sheep,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  83%|████████▎ | 140/168 [02:40<00:29,  1.06s/it][A[A[Apredicted_class:  ['suitcase,obj2:suitcase,obj3:suitcase,obj4:suitcase,obj5:suitcase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  84%|████████▍ | 141/168 [02:41<00:28,  1.05s/it][A[A[Apredicted_class:  ['donut,obj2:donut,obj3:donut,obj4:donut,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  85%|████████▍ | 142/168 [02:42<00:27,  1.04s/it][A[A[Apredicted_class:  ['carrot,obj2:corn,obj3:chicken,obj4:potato,obj5:tomato', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  85%|████████▌ | 143/168 [02:43<00:25,  1.04s/it][A[A[Apredicted_class:  ['person,obj2:horse,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  86%|████████▌ | 144/168 [02:44<00:24,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  86%|████████▋ | 145/168 [02:45<00:23,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  87%|████████▋ | 146/168 [02:46<00:22,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  88%|████████▊ | 147/168 [02:47<00:20,  1.01it/s][A[A[Apredicted_class:  ['broccoli,obj2:carrot,obj3:bowl,obj4:bottle,obj5:cheese', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  88%|████████▊ | 148/168 [02:48<00:19,  1.03it/s][A[A[Apredicted_class:  ['pizza,obj2:pizza,obj3:handbag,obj4:wineglass,obj5:knife', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  89%|████████▊ | 149/168 [02:49<00:19,  1.00s/it][A[A[Apredicted_class:  ['carrot,obj2:potato,obj3:potato,obj4:potato,obj5:potato', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  89%|████████▉ | 150/168 [02:50<00:18,  1.01s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  90%|████████▉ | 151/168 [02:51<00:17,  1.02s/it][A[A[Apredicted_class:  ['apple,obj2:apple,obj3:orange,obj4:dragonfruit,obj5:lime', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  90%|█████████ | 152/168 [02:52<00:18,  1.13s/it][A[A[Apredicted_class:  ['cake,obj2:cake,obj3:cake,obj4:cake,obj5:cake', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  91%|█████████ | 153/168 [02:53<00:16,  1.11s/it][A[A[Apredicted_class:  ['person,obj2:bicycle,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  92%|█████████▏| 154/168 [02:54<00:15,  1.09s/it][A[A[Apredicted_class:  ['broccoli,obj2:chicken,obj3:carrot,obj4:pasta,obj5:carrot', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  92%|█████████▏| 155/168 [02:55<00:13,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:motorcycle,obj4:motorcycle,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  93%|█████████▎| 156/168 [02:56<00:12,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  93%|█████████▎| 157/168 [02:58<00:14,  1.34s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:umbrella,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  94%|█████████▍| 158/168 [02:59<00:12,  1.25s/it][A[A[Apredicted_class:  ['broccoli,obj2:pizza,obj3:tomato,obj4:cheese,obj5:vegetable', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  95%|█████████▍| 159/168 [03:00<00:10,  1.18s/it][A[A[Apredicted_class:  ['bowl,obj2:bowl,obj3:plate,obj4:plate,obj5:bowl', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  95%|█████████▌| 160/168 [03:02<00:09,  1.13s/it][A[A[Apredicted_class:  ['cake,obj2:cake,obj3:cake,obj4:cake,obj5:cake', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  96%|█████████▌| 161/168 [03:03<00:07,  1.10s/it][A[A[Apredicted_class:  ['bowl,obj2:bowl,obj3:bowl,obj4:bowl,obj5:spoon', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  96%|█████████▋| 162/168 [03:04<00:06,  1.08s/it][A[A[Apredicted_class:  ['apple,obj2:apple,obj3:banana,obj4:orange,obj5:pineapple', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  97%|█████████▋| 163/168 [03:05<00:05,  1.06s/it][A[A[Apredicted_class:  ['tie,obj2:tie,obj3:tie,obj4:tie,obj5:tie', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  98%|█████████▊| 164/168 [03:06<00:04,  1.05s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  98%|█████████▊| 165/168 [03:08<00:04,  1.52s/it][A[A[Apredicted_class:  ['motorcycle,obj2:motorcycle,obj3:motorcycle,obj4:motorcycle,obj5:motorcycle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  99%|█████████▉| 166/168 [03:09<00:02,  1.34s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json:  99%|█████████▉| 167/168 [03:10<00:01,  1.25s/it][A[A[Apredicted_class:  ['dog,obj2:skateboard,obj3:person,obj4:jeans,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/AAAAB/AAAAB_photo2answer.json
-
-
-
-Entries for AAAAB_data.json: 100%|██████████| 168/168 [03:11<00:00,  1.18s/it][A[A[A
-
-
-                                                                              [A[A[A
-
-Files for train:  20%|██        | 1/5 [03:11<12:46, 191.71s/it][A[A
-
-
-Entries for BAAAA_data.json:   0%|          | 0/168 [00:00<?, ?it/s][A[A[Apredicted_class:  ['person,obj2:book,obj3:chair,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   1%|          | 1/168 [00:01<02:48,  1.01s/it][A[A[Apredicted_class:  ['rock,obj2:rock,obj3:rock,obj4:rock,obj5:rock', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   1%|          | 2/168 [00:02<02:47,  1.01s/it][A[A[Apredicted_class:  ['mountain,obj2:rock,obj3:rock,obj4:rock,obj5:rock', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   2%|▏         | 3/168 [00:03<02:46,  1.01s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   2%|▏         | 4/168 [00:04<02:45,  1.01s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   3%|▎         | 5/168 [00:04<02:37,  1.03it/s][A[A[Apredicted_class:  ['vase,obj2:vase,obj3:vase,obj4:vase,obj5:vase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   4%|▎         | 6/168 [00:05<02:32,  1.06it/s][A[A[Apredicted_class:  ['cabinet,obj2:cabinet,obj3:refrigerator,obj4:drawer,obj5:flower', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   4%|▍         | 7/168 [00:06<02:35,  1.04it/s][A[A[Apredicted_class:  ['chair,obj2:book,obj3:chair,obj4:book,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   5%|▍         | 8/168 [00:07<02:30,  1.06it/s][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   5%|▌         | 9/168 [00:08<02:32,  1.04it/s][A[A[Apredicted_class:  ['box,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   6%|▌         | 10/168 [00:09<02:34,  1.02it/s][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   7%|▋         | 11/168 [00:10<02:35,  1.01it/s][A[A[Apredicted_class:  ['car,obj2:car,obj3:car,obj4:car,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   7%|▋         | 12/168 [00:11<02:35,  1.00it/s][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:building,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   8%|▊         | 13/168 [00:12<02:29,  1.04it/s][A[A[Apredicted_class:  ['vehicle,obj2:window,obj3:window,obj4:floor,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   8%|▊         | 14/168 [00:13<02:30,  1.02it/s][A[A[Apredicted_class:  ['door,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:   9%|▉         | 15/168 [00:14<02:31,  1.01it/s][A[A[Apredicted_class:  ['book,obj2:chair,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  10%|▉         | 16/168 [00:15<02:31,  1.00it/s][A[A[Apredicted_class:  ['cabinet,obj2:chair,obj3:stove,obj4:table,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  10%|█         | 17/168 [00:16<02:30,  1.00it/s][A[A[Apredicted_class:  ['stove,obj2:dishwasher,obj3:microwaveoven,obj4:window,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  11%|█         | 18/168 [00:17<02:31,  1.01s/it][A[A[Apredicted_class:  ['dishwasher,obj2:kitchencabinet,obj3:microwaveoven,obj4:kitchencabinet,obj5:kitchencabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  11%|█▏        | 19/168 [00:18<02:36,  1.05s/it][A[A[Apredicted_class:  ['column,obj2:column,obj3:column,obj4:column,obj5:column', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  12%|█▏        | 20/168 [00:19<02:28,  1.00s/it][A[A[Apredicted_class:  ['picture,obj2:picture,obj3:picture,obj4:picture,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  12%|█▎        | 21/168 [00:20<02:27,  1.00s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  13%|█▎        | 22/168 [00:21<02:26,  1.01s/it][A[A[Apredicted_class:  ['door,obj2:chair,obj3:window,obj4:plant,obj5:flower', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  14%|█▎        | 23/168 [00:22<02:25,  1.01s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  14%|█▍        | 24/168 [00:23<02:25,  1.01s/it][A[A[Apredicted_class:  ['door,obj2:building,obj3:roof,obj4:roof,obj5:roof', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  15%|█▍        | 25/168 [00:24<02:24,  1.01s/it][A[A[Apredicted_class:  ['chair,obj2:book,obj3:cabinet,obj4:cushion,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  15%|█▌        | 26/168 [00:25<02:18,  1.03it/s][A[A[Apredicted_class:  ['plant,obj2:plant,obj3:plant,obj4:plant,obj5:plant', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  16%|█▌        | 27/168 [00:26<02:18,  1.02it/s][A[A[Apredicted_class:  ['tree,obj2:flower,obj3:rock,obj4:plant,obj5:grass', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  17%|█▋        | 28/168 [00:27<02:13,  1.05it/s][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  17%|█▋        | 29/168 [00:28<02:15,  1.03it/s][A[A[Apredicted_class:  ['building,obj2:car,obj3:window,obj4:building,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  18%|█▊        | 30/168 [00:29<02:16,  1.01it/s][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  18%|█▊        | 31/168 [00:30<02:16,  1.00it/s][A[A[Apredicted_class:  ['building,obj2:book,obj3:book,obj4:book,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  19%|█▉        | 32/168 [00:31<02:16,  1.00s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:window,obj4:flag,obj5:flag', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  20%|█▉        | 33/168 [00:32<02:15,  1.00s/it][A[A[Apredicted_class:  ['building,obj2:tree,obj3:building,obj4:tree,obj5:rock', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  20%|██        | 34/168 [00:33<02:15,  1.01s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  21%|██        | 35/168 [00:34<02:13,  1.01s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  21%|██▏       | 36/168 [00:35<02:13,  1.01s/it][A[A[Apredicted_class:  ['chair,obj2:picture,obj3:picture,obj4:picture,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  22%|██▏       | 37/168 [00:36<02:12,  1.01s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  23%|██▎       | 38/168 [00:37<02:11,  1.01s/it][A[A[Apredicted_class:  ['book,obj2:shelf,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  23%|██▎       | 39/168 [00:38<02:10,  1.01s/it][A[A[Apredicted_class:  ['picture,obj2:picture,obj3:picture,obj4:picture,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  24%|██▍       | 40/168 [00:39<02:10,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:chair,obj3:person,obj4:person,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  24%|██▍       | 41/168 [00:41<02:22,  1.12s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:door,obj5:door', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  25%|██▌       | 42/168 [00:42<02:29,  1.19s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  26%|██▌       | 43/168 [00:43<02:34,  1.24s/it][A[A[Apredicted_class:  ['chair,obj2:cabinet,obj3:cabinet,obj4:shelf,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  26%|██▌       | 44/168 [00:45<02:37,  1.27s/it][A[A[Apredicted_class:  ['door,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  27%|██▋       | 45/168 [00:46<02:35,  1.26s/it][A[A[Apredicted_class:  ['person,obj2:window,obj3:building,obj4:window,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  27%|██▋       | 46/168 [00:47<02:24,  1.19s/it][A[A[Apredicted_class:  ['person', 'person', 'person', 'person', 'person']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  28%|██▊       | 47/168 [00:50<03:14,  1.60s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:chair,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  29%|██▊       | 48/168 [00:51<02:51,  1.43s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  29%|██▉       | 49/168 [00:52<02:35,  1.31s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  30%|██▉       | 50/168 [00:53<02:23,  1.22s/it][A[A[Apredicted_class:  ['building,obj2:column,obj3:building,obj4:column,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  30%|███       | 51/168 [00:54<02:15,  1.16s/it][A[A[Apredicted_class:  ['pillow,obj2:cushion,obj3:window,obj4:cushion,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  31%|███       | 52/168 [00:55<02:05,  1.08s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  32%|███▏      | 53/168 [00:56<02:02,  1.06s/it][A[A[Apredicted_class:  ['plant,obj2:plant,obj3:plant,obj4:plant,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  32%|███▏      | 54/168 [00:57<01:59,  1.05s/it][A[A[Apredicted_class:  ['building,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  33%|███▎      | 55/168 [00:58<01:57,  1.04s/it][A[A[Apredicted_class:  ['', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  33%|███▎      | 56/168 [01:01<03:17,  1.76s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  34%|███▍      | 57/168 [01:02<02:50,  1.54s/it][A[A[Apredicted_class:  ['picture,obj2:picture,obj3:picture,obj4:chair,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  35%|███▍      | 58/168 [01:03<02:31,  1.38s/it][A[A[Apredicted_class:  ['mountain,obj2:mountain,obj3:mountain,obj4:mountain,obj5:tree', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  35%|███▌      | 59/168 [01:04<02:18,  1.27s/it][A[A[Apredicted_class:  ['person,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  36%|███▌      | 60/168 [01:05<02:09,  1.20s/it][A[A[Apredicted_class:  ['door,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  36%|███▋      | 61/168 [01:06<02:02,  1.14s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:floor,obj4:person,obj5:ballpit', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  37%|███▋      | 62/168 [01:07<01:58,  1.12s/it][A[A[Apredicted_class:  ['chair,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  38%|███▊      | 63/168 [01:08<01:54,  1.09s/it][A[A[Apredicted_class:  ['building,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  38%|███▊      | 64/168 [01:09<01:50,  1.07s/it][A[A[Apredicted_class:  ['cabinet,obj2:drawer,obj3:window,obj4:cabinet,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  39%|███▊      | 65/168 [01:10<01:48,  1.05s/it][A[A[Apredicted_class:  ['<class1>,obj2:<class2>,obj3:<class3>,obj4:<class4>,obj5:<class5>', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  39%|███▉      | 66/168 [01:15<03:44,  2.20s/it][A[A[Apredicted_class:  ['plant,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  40%|███▉      | 67/168 [01:16<03:06,  1.85s/it][A[A[Apredicted_class:  ['rock,obj2:ferns,obj3:ferns,obj4:ferns,obj5:ferns', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  40%|████      | 68/168 [01:17<02:43,  1.63s/it][A[A[Apredicted_class:  ['car,obj2:person,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  41%|████      | 69/168 [01:18<02:23,  1.45s/it][A[A[Apredicted_class:  ['bus,obj2:person,obj3:road,obj4:building,obj5:sign', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  42%|████▏     | 70/168 [01:19<02:09,  1.32s/it][A[A[Apredicted_class:  ['person,obj2:glass(referringtothereflectivesurfaceofthebuilding),obj3:tree,obj4:window,obj5:door', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  42%|████▏     | 71/168 [01:21<02:08,  1.33s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  43%|████▎     | 72/168 [01:22<01:58,  1.24s/it][A[A[Apredicted_class:  ['chair,obj2:table,obj3:chair,obj4:person,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  43%|████▎     | 73/168 [01:23<01:51,  1.17s/it][A[A[Apredicted_class:  ['person,obj2:book,obj3:chair,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  44%|████▍     | 74/168 [01:24<01:45,  1.13s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:shelf,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  45%|████▍     | 75/168 [01:25<01:41,  1.09s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:tree,obj4:building,obj5:tree', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  45%|████▌     | 76/168 [01:26<01:35,  1.03s/it][A[A[Apredicted_class:  ['door,obj2:window,obj3:cabinet,obj4:washingmachine,obj5:counter', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  46%|████▌     | 77/168 [01:27<01:34,  1.04s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  46%|████▋     | 78/168 [01:28<01:32,  1.03s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  47%|████▋     | 79/168 [01:29<01:31,  1.03s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  48%|████▊     | 80/168 [01:30<01:30,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:dishwasher,obj3:cabinet,obj4:cabinet,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  48%|████▊     | 81/168 [01:31<01:29,  1.02s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  49%|████▉     | 82/168 [01:32<01:27,  1.02s/it][A[A[Apredicted_class:  ['bottle,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  49%|████▉     | 83/168 [01:33<01:26,  1.02s/it][A[A[Apredicted_class:  ['building,obj2:car,obj3:building,obj4:building,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  50%|█████     | 84/168 [01:34<01:25,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  51%|█████     | 85/168 [01:35<01:24,  1.01s/it][A[A[Apredicted_class:  ['painting,obj2:easel,obj3:painting,obj4:painting,obj5:painting', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  51%|█████     | 86/168 [01:36<01:24,  1.03s/it][A[A[Apredicted_class:  ['box,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  52%|█████▏    | 87/168 [01:37<01:20,  1.01it/s][A[A[Apredicted_class:  ['window,obj2:sofa,obj3:flowerpot,obj4:cushion,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  52%|█████▏    | 88/168 [01:38<01:20,  1.01s/it][A[A[Apredicted_class:  ['door,obj2:box,obj3:person,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  53%|█████▎    | 89/168 [01:39<01:19,  1.01s/it][A[A[Apredicted_class:  ['mountain,obj2:mountain,obj3:mountain,obj4:mountain,obj5:mountain', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  54%|█████▎    | 90/168 [01:40<01:19,  1.01s/it][A[A[Apredicted_class:  ['book,obj2:chair,obj3:book,obj4:book,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  54%|█████▍    | 91/168 [01:41<01:18,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  55%|█████▍    | 92/168 [01:42<01:17,  1.01s/it][A[A[Apredicted_class:  ['car,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  55%|█████▌    | 93/168 [01:43<01:16,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:sign,obj3:sign,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  56%|█████▌    | 94/168 [01:44<01:15,  1.02s/it][A[A[Apredicted_class:  ['car,obj2:car,obj3:car,obj4:building,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  57%|█████▋    | 95/168 [01:45<01:14,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  57%|█████▋    | 96/168 [01:46<01:13,  1.02s/it][A[A[Apredicted_class:  ['picture,obj2:chair,obj3:picture,obj4:picture,obj5:picture', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  58%|█████▊    | 97/168 [01:47<01:12,  1.02s/it][A[A[Apredicted_class:  ['car,obj2:car,obj3:car,obj4:car,obj5:car', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  58%|█████▊    | 98/168 [01:48<01:11,  1.02s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  59%|█████▉    | 99/168 [01:49<01:10,  1.02s/it][A[A[Apredicted_class:  ['window,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  60%|█████▉    | 100/168 [01:50<01:09,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  60%|██████    | 101/168 [01:51<01:08,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:cabinet,obj3:cabinet,obj4:drawer,obj5:refrigerator', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  61%|██████    | 102/168 [01:52<01:07,  1.02s/it][A[A[Apredicted_class:  ['building,obj2:building,obj3:building,obj4:tree,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  61%|██████▏   | 103/168 [01:53<01:06,  1.02s/it][A[A[Apredicted_class:  ['box,obj2:box,obj3:box,obj4:box,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  62%|██████▏   | 104/168 [01:54<01:05,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  62%|██████▎   | 105/168 [01:55<01:04,  1.02s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:shelf,obj4:bottle,obj5:shelf', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  63%|██████▎   | 106/168 [01:56<01:02,  1.02s/it][A[A[Apredicted_class:  ['building,obj2:person,obj3:building,obj4:person,obj5:building', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  64%|██████▎   | 107/168 [01:57<01:02,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:cabinet,obj3:cabinet,obj4:drawer,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  64%|██████▍   | 108/168 [01:58<01:00,  1.02s/it][A[A[Apredicted_class:  ['cabinet,obj2:column,obj3:chair,obj4:table,obj5:drawer', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  65%|██████▍   | 109/168 [01:59<00:59,  1.01s/it][A[A[Apredicted_class:  ['fence,obj2:chair,obj3:flower,obj4:plant,obj5:pole', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  65%|██████▌   | 110/168 [02:00<00:59,  1.02s/it][A[A[Apredicted_class:  ['car,obj2:window,obj3:window,obj4:window,obj5:window', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  66%|██████▌   | 111/168 [02:01<00:58,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:table,obj3:chair,obj4:chair,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  67%|██████▋   | 112/168 [02:02<00:57,  1.02s/it][A[A[Apredicted_class:  ['seat,obj2:seat,obj3:seat,obj4:seat,obj5:seat', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  67%|██████▋   | 113/168 [02:03<00:56,  1.02s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:book,obj4:book,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  68%|██████▊   | 114/168 [02:04<00:55,  1.02s/it][A[A[Apredicted_class:  ['plate,obj2:broccoli,obj3:spaghetti,obj4:broccoli,obj5:fork', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  68%|██████▊   | 115/168 [02:05<00:54,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:skateboard,obj3:person,obj4:backpack,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  69%|██████▉   | 116/168 [02:06<00:53,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:umbrella,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  70%|██████▉   | 117/168 [02:07<00:52,  1.02s/it][A[A[Apredicted_class:  ['', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  70%|███████   | 118/168 [02:11<01:27,  1.75s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:condiment,obj5:vegetable', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  71%|███████   | 119/168 [02:12<01:15,  1.54s/it][A[A[Apredicted_class:  ['clock,obj2:monitor,obj3:monitor,obj4:monitor,obj5:monitor', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  71%|███████▏  | 120/168 [02:13<01:06,  1.38s/it][A[A[Apredicted_class:  ['person', 'person', 'person', 'person', 'person']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  72%|███████▏  | 121/168 [02:15<01:17,  1.65s/it][A[A[Apredicted_class:  ['kite,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  73%|███████▎  | 122/168 [02:16<01:07,  1.46s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  73%|███████▎  | 123/168 [02:17<00:59,  1.33s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  74%|███████▍  | 124/168 [02:18<00:54,  1.23s/it][A[A[Apredicted_class:  ['surfboard,obj2:surfboard,obj3:surfboard,obj4:surfboard,obj5:surfboard', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  74%|███████▍  | 125/168 [02:19<00:52,  1.22s/it][A[A[Apredicted_class:  ['sheep,obj2:sheep,obj3:sheep,obj4:chicken,obj5:sheep', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  75%|███████▌  | 126/168 [02:20<00:48,  1.16s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  76%|███████▌  | 127/168 [02:21<00:45,  1.12s/it][A[A[Apredicted_class:  ['vase,obj2:vase,obj3:vase,obj4:vase,obj5:vase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  76%|███████▌  | 128/168 [02:22<00:43,  1.09s/it][A[A[Apredicted_class:  ['', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  77%|███████▋  | 129/168 [02:26<01:14,  1.90s/it][A[A[Apredicted_class:  ['bottle,obj2:bottle,obj3:bottle,obj4:bottle,obj5:bottle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  77%|███████▋  | 130/168 [02:27<01:02,  1.63s/it][A[A[Apredicted_class:  ['surfboard,obj2:surfboard,obj3:surfboard,obj4:surfboard,obj5:surfboard', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  78%|███████▊  | 131/168 [02:28<00:55,  1.50s/it][A[A[Apredicted_class:  ['watermelon,obj2:watermelon,obj3:watermelon,obj4:watermelon,obj5:banana', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  79%|███████▊  | 132/168 [02:30<00:50,  1.40s/it][A[A[Apredicted_class:  ['person,obj2:chair,obj3:chair,obj4:table,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  79%|███████▉  | 133/168 [02:31<00:44,  1.28s/it][A[A[Apredicted_class:  ['donut,obj2:donut,obj3:donut,obj4:donut,obj5:donut', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  80%|███████▉  | 134/168 [02:32<00:42,  1.26s/it][A[A[Apredicted_class:  ['wineglass,obj2:wineglass,obj3:wineglass,obj4:wineglass,obj5:wineglass', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  80%|████████  | 135/168 [02:33<00:40,  1.23s/it][A[A[Apredicted_class:  ['suitcase,obj2:suitcase,obj3:suitcase,obj4:suitcase,obj5:suitcase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  81%|████████  | 136/168 [02:34<00:37,  1.17s/it][A[A[Apredicted_class:  ['sheep,obj2:sheep,obj3:sheep,obj4:sheep,obj5:sheep', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  82%|████████▏ | 137/168 [02:35<00:34,  1.13s/it][A[A[Apredicted_class:  ['donut,obj2:donut,obj3:donut,obj4:donut,obj5:donut', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  82%|████████▏ | 138/168 [02:36<00:34,  1.14s/it][A[A[Apredicted_class:  ['pizza,obj2:pizza,obj3:pizza,obj4:pizza,obj5:pizza', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  83%|████████▎ | 139/168 [02:37<00:31,  1.07s/it][A[A[Apredicted_class:  ['sheep,obj2:sheep,obj3:sheep,obj4:sheep,obj5:sheep', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  83%|████████▎ | 140/168 [02:38<00:29,  1.06s/it][A[A[Apredicted_class:  ['suitcase,obj2:suitcase,obj3:suitcase,obj4:suitcase,obj5:suitcase', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  84%|████████▍ | 141/168 [02:39<00:28,  1.05s/it][A[A[Apredicted_class:  ['donut,obj2:donut,obj3:donut,obj4:donut,obj5:box', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  85%|████████▍ | 142/168 [02:40<00:27,  1.04s/it][A[A[Apredicted_class:  ['carrot,obj2:corn,obj3:potato,obj4:chickenbreast,obj5:knife', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  85%|████████▌ | 143/168 [02:41<00:26,  1.05s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:horse,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  86%|████████▌ | 144/168 [02:42<00:24,  1.04s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  86%|████████▋ | 145/168 [02:43<00:23,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:fish', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  87%|████████▋ | 146/168 [02:44<00:22,  1.03s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  88%|████████▊ | 147/168 [02:45<00:20,  1.01it/s][A[A[Apredicted_class:  ['bottle,obj2:carrot,obj3:broccoli,obj4:bowl,obj5:wineglass', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  88%|████████▊ | 148/168 [02:46<00:19,  1.02it/s][A[A[Apredicted_class:  ['pizza,obj2:knife,obj3:pizza,obj4:pizza,obj5:pizza', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  89%|████████▊ | 149/168 [02:47<00:18,  1.01it/s][A[A[Apredicted_class:  ['potato,obj2:carrot,obj3:sweetpotato,obj4:potato,obj5:potato', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  89%|████████▉ | 150/168 [02:48<00:18,  1.02s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  90%|████████▉ | 151/168 [02:49<00:17,  1.02s/it][A[A[Apredicted_class:  ['apple,obj2:apple,obj3:apple,obj4:apple,obj5:dragonfruit', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  90%|█████████ | 152/168 [02:50<00:16,  1.03s/it][A[A[Apredicted_class:  ['cake,obj2:donut,obj3:cake,obj4:cake,obj5:cake', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  91%|█████████ | 153/168 [02:51<00:15,  1.04s/it][A[A[Apredicted_class:  ['person,obj2:bicycle,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  92%|█████████▏| 154/168 [02:52<00:14,  1.04s/it][A[A[Apredicted_class:  ['chicken,obj2:carrot,obj3:broccoli,obj4:chicken,obj5:pasta', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  92%|█████████▏| 155/168 [02:53<00:12,  1.00it/s][A[A[Apredicted_class:  ['person,obj2:motorcycle,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  93%|█████████▎| 156/168 [02:54<00:12,  1.01s/it][A[A[Apredicted_class:  ['horse,obj2:horse,obj3:horse,obj4:horse,obj5:horse', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  93%|█████████▎| 157/168 [02:55<00:10,  1.02it/s][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:umbrella,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  94%|█████████▍| 158/168 [02:56<00:09,  1.01it/s][A[A[Apredicted_class:  ['broccoli,obj2:broccoli,obj3:cheese,obj4:tomato,obj5:bellpepper', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  95%|█████████▍| 159/168 [02:57<00:09,  1.01s/it][A[A[Apredicted_class:  ['bowl,obj2:dish,obj3:dish,obj4:dish,obj5:dish', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  95%|█████████▌| 160/168 [02:58<00:08,  1.02s/it][A[A[Apredicted_class:  ['cake,obj2:cake,obj3:cake,obj4:cake,obj5:cake', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  96%|█████████▌| 161/168 [02:59<00:07,  1.02s/it][A[A[Apredicted_class:  ['milk,obj2:beans,obj3:cake,obj4:beans,obj5:yogurt', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  96%|█████████▋| 162/168 [03:00<00:06,  1.02s/it][A[A[Apredicted_class:  ['apple,obj2:apple,obj3:pineapple,obj4:apple,obj5:apple', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  97%|█████████▋| 163/168 [03:01<00:05,  1.02s/it][A[A[Apredicted_class:  ['tie,obj2:tie,obj3:tie,obj4:tie,obj5:tie', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  98%|█████████▊| 164/168 [03:03<00:04,  1.12s/it][A[A[Apredicted_class:  ['person,obj2:person,obj3:person,obj4:person,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  98%|█████████▊| 165/168 [03:04<00:03,  1.20s/it][A[A[Apredicted_class:  ['motorcycle,obj2:motorcycle,obj3:motorcycle,obj4:motorcycle,obj5:motorcycle', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  99%|█████████▉| 166/168 [03:05<00:02,  1.14s/it][A[A[Apredicted_class:  ['person,obj2:chair,obj3:table,obj4:bottle,obj5:umbrella', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json:  99%|█████████▉| 167/168 [03:07<00:01,  1.21s/it][A[A[Apredicted_class:  ['dog,obj2:person,obj3:person,obj4:skateboard,obj5:person', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/BAAAA/BAAAA_photo2answer.json
-
-
-
-Entries for BAAAA_data.json: 100%|██████████| 168/168 [03:08<00:00,  1.26s/it][A[A[A
-
-
-                                                                              [A[A[A
-
-Files for train:  40%|████      | 2/5 [06:20<09:29, 189.79s/it][A[A
-
-
-Entries for merged_heterogenous_data.json:   0%|          | 0/312 [00:00<?, ?it/s][A[A[Apredicted_class:  ['lamp,obj2:cushion,obj3:picture,obj4:person,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   0%|          | 1/312 [00:01<06:59,  1.35s/it][A[A[Apredicted_class:  ['pillow,obj2:drawer,obj3:bed,obj4:mirror,obj5:armchair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   1%|          | 2/312 [00:02<06:19,  1.22s/it][A[A[Apredicted_class:  ['chair,obj2:cushion,obj3:vase,obj4:box,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   1%|          | 3/312 [00:03<05:47,  1.12s/it][A[A[Apredicted_class:  ['chair,obj2:curtain,obj3:painting,obj4:ceilingfan,obj5:cabinet', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   1%|▏         | 4/312 [00:04<05:36,  1.09s/it][A[A[Apredicted_class:  ['door,obj2:chair,obj3:window,obj4:mirror,obj5:curtain', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   2%|▏         | 5/312 [00:05<05:26,  1.06s/it][A[A[Apredicted_class:  ['lamp,obj2:person,obj3:drawer,obj4:picture,obj5:pillow', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   2%|▏         | 6/312 [00:06<05:23,  1.06s/it][A[A[Apredicted_class:  ['bed,obj2:armchair,obj3:cushion,obj4:cushion,obj5:cushion', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   2%|▏         | 7/312 [00:07<05:20,  1.05s/it][A[A[Apredicted_class:  ['chair,obj2:window,obj3:cabinet,obj4:picture,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   3%|▎         | 8/312 [00:08<05:15,  1.04s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:window,obj4:box,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   3%|▎         | 9/312 [00:09<05:12,  1.03s/it][A[A[Apredicted_class:  ['book,obj2:book,obj3:chair,obj4:book,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   3%|▎         | 10/312 [00:10<05:09,  1.03s/it][A[A[Apredicted_class:  ['lamp,obj2:chair,obj3:sofa,obj4:cushion,obj5:table', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   4%|▎         | 11/312 [00:11<05:08,  1.02s/it][A[A[Apredicted_class:  ['armchair,obj2:sofa,obj3:chair,obj4:mirror,obj5:door', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   4%|▍         | 12/312 [00:12<05:08,  1.03s/it][A[A[Apredicted_class:  ['picture,obj2:chair,obj3:cushion,obj4:sofa,obj5:floor', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   4%|▍         | 13/312 [00:13<05:06,  1.02s/it][A[A[Apredicted_class:  ['chair,obj2:chair,obj3:window,obj4:pot,obj5:book', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   4%|▍         | 14/312 [00:14<05:04,  1.02s/it][A[A[Apredicted_class:  ['sign,obj2:sign,obj3:chair,obj4:chair,obj5:chair', '', '', '', '']
-Results saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/merged_heterogenous_data.json
-Metrics saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_metrics.json
-Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/minicpm/default/train/heterogenous/heterogenous_photo2answer.json
-
-
-
-Entries for merged_heterogenous_data.json:   5%|▍         | 15/312 [00:15<05:02,  1.02s/it][A[A[Aslurmstepd: error: *** JOB 62224587 ON udc-an40-17 CANCELLED AT 2024-06-25T23:43:47 ***
