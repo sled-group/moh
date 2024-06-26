@@ -1,0 +1,645 @@
+You set `add_prefix_space`. The tokenizer needs to be converted from the slow tokenizers
+The model weights are not tied. Please use the `tie_weights` method before using the `infer_auto_device` function.
+Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:01<00:20,  1.46s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:02<00:18,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.35s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.33s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:13,  1.30s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:07<00:11,  1.29s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:10,  1.31s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:09,  1.30s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.30s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:13<00:06,  1.33s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:05,  1.32s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.31s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:17<00:02,  1.33s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:18<00:01,  1.32s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:18<00:00,  1.05s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:18<00:00,  1.26s/it]
+Settings:   0%|          | 0/4 [00:00<?, ?it/s]
+Data Types for default:   0%|          | 0/2 [00:00<?, ?it/s][A
+
+Files for train:   0%|          | 0/5 [00:00<?, ?it/s][A[A
+
+
+Entries for AAAAB_data.json:   0%|          | 0/168 [00:00<?, ?it/s][A[A[A
+
+
+Entries for AAAAB_data.json:   1%|          | 1/168 [00:27<1:16:18, 27.42s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   1%|          | 2/168 [00:51<1:10:10, 25.37s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   2%|▏         | 3/168 [01:20<1:14:30, 27.09s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   2%|▏         | 4/168 [01:44<1:10:40, 25.86s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   3%|▎         | 5/168 [02:08<1:08:27, 25.20s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   4%|▎         | 6/168 [02:24<59:36, 22.08s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:   4%|▍         | 7/168 [02:48<1:00:56, 22.71s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   5%|▍         | 8/168 [03:11<1:00:57, 22.86s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   5%|▌         | 9/168 [03:40<1:05:12, 24.61s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   6%|▌         | 10/168 [04:01<1:02:13, 23.63s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   7%|▋         | 11/168 [04:25<1:02:11, 23.76s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   7%|▋         | 12/168 [04:55<1:06:11, 25.46s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   8%|▊         | 13/168 [05:19<1:04:43, 25.05s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   8%|▊         | 14/168 [05:47<1:06:57, 26.09s/it][A[A[A
+
+
+Entries for AAAAB_data.json:   9%|▉         | 15/168 [06:11<1:04:57, 25.48s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  10%|▉         | 16/168 [06:35<1:03:26, 25.04s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  10%|█         | 17/168 [07:04<1:05:34, 26.06s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  11%|█         | 18/168 [07:28<1:04:10, 25.67s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  11%|█▏        | 19/168 [07:51<1:01:18, 24.69s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  12%|█▏        | 20/168 [08:07<54:28, 22.09s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:  12%|█▎        | 21/168 [08:32<56:04, 22.89s/it][A[A[Apredicted_class:  ['bookcase', 'bookcase', 'bookcase', 'bookcase', 'bookcase']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['rock', 'rock', 'rock', 'rock', 'rock']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['rock', 'rock', 'rock', 'rock', 'rock']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'plant']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['ceiling', 'ceiling', 'ceiling', 'ceiling', 'ceiling']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['car', 'car', 'car', 'car', 'car']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'cabinet']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'cabinet']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'cabinet']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['chair', 'chair', 'chair', 'chair', 'chair']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+
+
+
+Entries for AAAAB_data.json:  13%|█▎        | 22/168 [08:56<56:31, 23.23s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  14%|█▎        | 23/168 [09:20<57:15, 23.70s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  14%|█▍        | 24/168 [09:43<55:56, 23.31s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  15%|█▍        | 25/168 [10:07<56:05, 23.54s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  15%|█▌        | 26/168 [10:23<50:22, 21.29s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  16%|█▌        | 27/168 [10:48<52:30, 22.35s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  17%|█▋        | 28/168 [11:13<53:53, 23.10s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  17%|█▋        | 29/168 [11:37<54:11, 23.39s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  18%|█▊        | 30/168 [12:01<54:16, 23.60s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  18%|█▊        | 31/168 [12:30<57:49, 25.32s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  19%|█▉        | 32/168 [12:52<55:26, 24.46s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  20%|█▉        | 33/168 [13:19<56:09, 24.96s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  20%|██        | 34/168 [13:42<54:28, 24.39s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  21%|██        | 35/168 [14:10<56:45, 25.60s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  21%|██▏       | 36/168 [14:33<54:12, 24.64s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  22%|██▏       | 37/168 [14:57<53:53, 24.68s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  23%|██▎       | 38/168 [15:20<51:59, 23.99s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  23%|██▎       | 39/168 [15:49<54:59, 25.58s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  24%|██▍       | 40/168 [16:13<53:35, 25.12s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  24%|██▍       | 41/168 [16:35<51:26, 24.31s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  25%|██▌       | 42/168 [16:59<50:53, 24.23s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  26%|██▌       | 43/168 [17:23<49:45, 23.89s/it][A[A[APhoto2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['door', 'window', 'building', 'plant', 'plant']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['flower', 'flower', 'flower', 'flower', 'flower']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['tree', 'tree', 'tree', 'tree', 'tree']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'car']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['picture', 'picture', 'picture', 'picture', 'picture']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['chair', 'chair', 'chair', 'chair', 'chair']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['picture', 'picture', 'picture', 'picture', 'picture']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'cabinet']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+
+
+
+Entries for AAAAB_data.json:  26%|██▌       | 44/168 [17:46<48:52, 23.65s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  27%|██▋       | 45/168 [18:06<46:36, 22.74s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  27%|██▋       | 46/168 [18:30<47:03, 23.14s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  28%|██▊       | 47/168 [18:54<47:15, 23.43s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  29%|██▊       | 48/168 [19:17<46:15, 23.13s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  29%|██▉       | 49/168 [19:41<46:26, 23.42s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  30%|██▉       | 50/168 [20:10<49:31, 25.18s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  30%|███       | 51/168 [20:33<47:51, 24.55s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  31%|███       | 52/168 [20:58<47:36, 24.62s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  32%|███▏      | 53/168 [21:21<46:17, 24.15s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  32%|███▏      | 54/168 [21:45<45:49, 24.12s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  33%|███▎      | 55/168 [22:13<47:19, 25.13s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  33%|███▎      | 56/168 [22:35<45:23, 24.32s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  34%|███▍      | 57/168 [23:04<47:44, 25.80s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  35%|███▍      | 58/168 [23:27<45:48, 24.99s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  35%|███▌      | 59/168 [23:57<47:44, 26.28s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  36%|███▌      | 60/168 [24:21<46:07, 25.62s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  36%|███▋      | 61/168 [24:45<44:52, 25.16s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  37%|███▋      | 62/168 [25:09<43:53, 24.84s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  38%|███▊      | 63/168 [25:34<43:28, 24.84s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  38%|███▊      | 64/168 [25:58<42:39, 24.61s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  39%|███▊      | 65/168 [26:20<41:08, 23.96s/it][A[A[AMetrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['column', 'column', 'column', 'column', 'column']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['chair', 'chair', 'chair', 'chair', 'chair']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['picture', 'picture', 'picture', 'picture', 'picture']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['mountain', 'mountain', 'mountain', 'mountain', 'mountain']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'cabinet']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  
+
+
+Entries for AAAAB_data.json:  39%|███▉      | 66/168 [26:50<43:27, 25.57s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  40%|███▉      | 67/168 [27:19<44:54, 26.68s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  40%|████      | 68/168 [27:41<42:19, 25.40s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  41%|████      | 69/168 [28:11<43:49, 26.56s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  42%|████▏     | 70/168 [28:35<42:08, 25.81s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  42%|████▏     | 71/168 [28:59<40:51, 25.28s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  43%|████▎     | 72/168 [29:23<39:50, 24.91s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  43%|████▎     | 73/168 [29:46<38:33, 24.36s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  44%|████▍     | 74/168 [30:10<38:01, 24.27s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  45%|████▍     | 75/168 [30:38<39:34, 25.53s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  45%|████▌     | 76/168 [31:03<38:29, 25.10s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  46%|████▌     | 77/168 [31:27<37:56, 25.02s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  46%|████▋     | 78/168 [31:50<36:40, 24.45s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  47%|████▋     | 79/168 [32:20<38:26, 25.91s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  48%|████▊     | 80/168 [32:45<37:30, 25.58s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  48%|████▊     | 81/168 [33:09<36:25, 25.12s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  49%|████▉     | 82/168 [33:28<33:38, 23.47s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  49%|████▉     | 83/168 [33:51<32:47, 23.15s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  50%|█████     | 84/168 [34:15<32:46, 23.41s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  51%|█████     | 85/168 [34:36<31:32, 22.80s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  51%|█████     | 86/168 [35:02<32:30, 23.79s/it][A[A[A['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['plant', 'plant', 'plant', 'plant', 'plant']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'window', 'window', 'window', 'car']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['chair', 'chair', 'chair', 'chair', 'chair']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['door', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['person', 'person', 'person', 'person', 'person']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['bottle', 'bottle', 'bottle', 'bottle', 'bottle']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['window', 'window', 'window', 'window', 'window']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['cabinet', 'cabinet', 'cabinet', 'cabinet', 'cabinet']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['box', 'box', 'box', 'box', 'box']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['building', 'building', 'building', 'building', 'building']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['chair', 'chair', 'chair', 'chair', 'chair']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['picture', 'picture', 'picture', 'picture', 'picture']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+Photo2Answer mapping saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_photo2answer.json
+predicted_class:  ['book', 'book', 'book', 'book', 'book']
+Results saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_data.json
+Metrics saved to /scratch/rqa8sm/ROPE/output/llavanext34b/default/train/AAAAB/AAAAB_metrics.json
+
+
+
+Entries for AAAAB_data.json:  52%|█████▏    | 87/168 [35:25<31:51, 23.60s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  52%|█████▏    | 88/168 [35:48<31:15, 23.44s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  53%|█████▎    | 89/168 [36:13<31:24, 23.85s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  54%|█████▎    | 90/168 [36:36<30:26, 23.42s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  54%|█████▍    | 91/168 [36:58<29:40, 23.12s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  55%|█████▍    | 92/168 [37:20<29:00, 22.91s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  55%|█████▌    | 93/168 [37:45<29:21, 23.48s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  56%|█████▌    | 94/168 [38:08<28:49, 23.37s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  57%|█████▋    | 95/168 [38:33<28:57, 23.80s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  57%|█████▋    | 96/168 [38:57<28:40, 23.89s/it][A[A[A
