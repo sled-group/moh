@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)]()
 [![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)]()
-[![Hugging Dataset](https://img.shields.io/badge/huggingface-dataset:my--dataset-green)]()
+[![Hugging Dataset](https://img.shields.io/badge/huggingface-dataset:ROPE-green)]()
 
 
 This repository is the official tools for
