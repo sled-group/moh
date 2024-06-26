@@ -72,6 +72,11 @@ Alternatively, you can try to download via the google drive [[Google Drive]]().
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-   @misc{
+   @misc{xuweiyi2024multiobjecthallucination,
+         title={Multi-Object Hallucination in Vision-Language Models}, 
+         author={Xuweiyi Chen and Ziqiao Ma and Xuejun Zhang and Sihan Xu and Shengyi Qian and David Fouhey and Joyce Y. Chai},
+         year={2024},
+         archivePrefix={arXiv},
+         primaryClass={cs.CV}
    }
    ```
