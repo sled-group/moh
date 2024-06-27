@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A uva_cv_lab
+# fill your credential
 #SBATCH --partition=gpu
 #SBATCH --gres=gpu:a6000:1
 #SBATCH --ntasks=1
