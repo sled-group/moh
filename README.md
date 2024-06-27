@@ -14,6 +14,7 @@ This repository is the official tools for
 - **Authors**: [Xuejun Zhang](https://xuejunzhang2002.github.io/)<sup>*,1</sup>
 - **Authors**: [Sihan Xu](https://sihanxu.github.io/)<sup>1</sup>
 - **Authors**: [Shengyi Qian](https://jasonqsy.github.io/)<sup>1, 2</sup>
+- **Authors**: [Jianing Yang](https://jedyang.com/)<sup>1</sup>
 - **Authors**: [David Fouhey](https://web.eecs.umich.edu/~fouhey/)<sup>2</sup>
 - **Authors**: [Joyce Y. Chai](https://web.eecs.umich.edu/~chaijy/)<sup>1</sup>
 
