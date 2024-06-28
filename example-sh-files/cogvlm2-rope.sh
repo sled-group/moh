@@ -11,7 +11,7 @@
 #SBATCH --error=<your--error-repo-place>
 
 module load cuda
-cd /scratch/rqa8sm/ROPE/moh
+cd /<your-path>/ROPE/moh
 
 # Initialize conda
 __conda_setup="$('/apps/software/standard/core/anaconda/2023.07-py3.11/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
