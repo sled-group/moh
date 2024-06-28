@@ -5,6 +5,10 @@
 #SBATCH --ntasks=1
 #SBATCH --time=24:00:00
 #SBATCH --cpus-per-task=16
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=<your-email>
+#SBATCH --output=<your-output-repo-place>
+#SBATCH --error=<your--error-repo-place>
 
 module load cuda
 cd /scratch/rqa8sm/ROPE/moh
@@ -23,7 +27,7 @@ fi
 unset __conda_setup
 
 # Activate the conda environment
-conda activate /scratch/rqa8sm/ROPE/rope_env
+conda activate /your-path/ROPE/rope_env
 
 # Run the Python script
-python main.py --model_name cogvlm2 --model_size "19b" --model_path /scratch/rqa8sm/ROPE/cogvlm2-llama3-chat-19B --device_map balanced --data_base_path /scratch/rqa8sm/ROPE/ROPE --output_base_path /scratch/rqa8sm/ROPE/output
+python main.py --model_name cogvlm2 --model_size "19b" --model_path /your-path/ROPE/cogvlm2-llama3-chat-19B --device_map balanced --data_base_path /your-path/ROPE/ROPE --output_base_path /your-path/ROPE/output --settings "teacher-forcing" --data_types "train" "validation"
