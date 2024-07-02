@@ -46,7 +46,7 @@ This project contains various Python scripts designed for processing and analyzi
 
 2. **ADE dataset**
    - ADE20K training and validation set
-   - ADE20K daraset: https://groups.csail.mit.edu/vision/datasets/ADE20K/
+   - ADE20K dataset: https://groups.csail.mit.edu/vision/datasets/ADE20K/
 
 
 ## Script Instruction
