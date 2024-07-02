@@ -1,4 +1,4 @@
-# Project README
+# Data Curation for ROPE
 
 ## Overview
 
