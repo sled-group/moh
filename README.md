@@ -9,13 +9,13 @@ This repository is the official tools for
 
 ### Multi-Object Hallucination in Vision-Language Models
 
-- **Authors**: [Xuweiyi Chen](https://xuweiyichen.github.io/)<sup>*,1</sup>
+- **Authors**: [Xuweiyi Chen](https://xuweiyichen.github.io/)<sup>*,1,2</sup>
 - **Authors**: [Ziqiao Ma](https://mars-tin.github.io/)<sup>*,1</sup>
 - **Authors**: [Xuejun Zhang](https://xuejunzhang2002.github.io/)<sup>*,1</sup>
 - **Authors**: [Sihan Xu](https://sihanxu.github.io/)<sup>1</sup>
-- **Authors**: [Shengyi Qian](https://jasonqsy.github.io/)<sup>1, 2</sup>
+- **Authors**: [Shengyi Qian](https://jasonqsy.github.io/)<sup>1, 3</sup>
 - **Authors**: [(Jed) Jianing Yang](https://jedyang.com/)<sup>1</sup>
-- **Authors**: [David Fouhey](https://web.eecs.umich.edu/~fouhey/)<sup>2</sup>
+- **Authors**: [David Fouhey](https://web.eecs.umich.edu/~fouhey/)<sup>3</sup>
 - **Authors**: [Joyce Y. Chai](https://web.eecs.umich.edu/~chaijy/)<sup>1</sup>
 
 **Affiliation**: <sup>1</sup>University of Michigan, <sup>2</sup>University of Virginia, <sup>3</sup>New York University
