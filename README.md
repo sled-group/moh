@@ -61,9 +61,8 @@ We provide a Gradio repository to download ROPE, our dataset for testing multi-O
 
 ```
 git lfs install
+git clone https://huggingface.co/datasets/sled-umich/ROPE
 ```
-
-Alternatively, you can try to download via the google drive [[Google Drive]]().
 
 ### 4. Test your own Models
 
