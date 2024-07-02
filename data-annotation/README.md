@@ -51,3 +51,5 @@ This project contains various Python scripts designed for processing and analyzi
 
 ## Script Instruction
 - To process the datasets, first run **json_process.py** to generate JSON files. Then, run **merge.py** to create a merged JSON file for each dataset. Next, run **object_frequency.py** to calculate and sort the object frequency of each class. Subsequently, run **select_top50.py** to retain only the bounding boxes of the top 50 most frequent classes. Afterward, run **remove_overlap.py** to remove redundant bounding boxes. Then, run **select_1000.py** to select 1000 images from the total image pool. If a panoptic object set is needed, run **object_set.py** followed by the additional **panoptic_COCO.py** for the COCO dataset. Finally, run **visualization.py** to visualize the bounding boxes in each image.
+
+Please submit issues and we will try our best to fix them!
