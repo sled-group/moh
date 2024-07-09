@@ -53,6 +53,8 @@ cd moh
 conda create -n moh python=3.11
 conda activate moh
 pip install -r environment.yml
+
+<install other enviroments that your model requires>
 ```
 
 ### 3. 🤗Download Dataset
@@ -66,7 +68,11 @@ git clone https://huggingface.co/datasets/sled-umich/ROPE
 
 ### 4. Test your own Models
 
+We recommend that you implement a model handler following the template in the model_handler.py.
+
 ### 5. Submit Issues
+
+We welcome all the issues regarding uses or data. Please post them in the issues and we will respond at a timely manner.
 
 ## Citation :fountain_pen: 
 
