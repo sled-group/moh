@@ -1,6 +1,6 @@
 # 🐮 Multi-Object Hallucination in Vision-Language Models
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)]()
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2407.06192)
 [![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)](https://multi-object-hallucination.github.io/)
 [![Hugging Dataset](https://img.shields.io/badge/huggingface-dataset:ROPE-green)](https://huggingface.co/datasets/sled-umich/ROPE)
 
@@ -22,7 +22,7 @@ This repository is the official tools for
 
 <sup>*</sup>*Equal contribution*
 
-### [Project page](https://multi-object-hallucination.github.io/) | [Paper]() | [Dataset 🪢](https://huggingface.co/datasets/sled-umich/ROPE)
+### [Project page](https://multi-object-hallucination.github.io/) | [Paper](https://arxiv.org/abs/2407.06192) | [Dataset 🪢](https://huggingface.co/datasets/sled-umich/ROPE)
 ## Updates🔥 
 
 - This paper has been accepted to ALVR @ ACL 2024!
@@ -73,11 +73,10 @@ git clone https://huggingface.co/datasets/sled-umich/ROPE
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-   @misc{xuweiyi2024multiobjecthallucination,
-         title={Multi-Object Hallucination in Vision-Language Models}, 
-         author={Xuweiyi Chen and Ziqiao Ma and Xuejun Zhang and Sihan Xu and Shengyi Qian and Jianing Yang and David Fouhey and Joyce Y. Chai},
-         year={2024},
-         archivePrefix={arXiv},
-         primaryClass={cs.CV}
+   @inproceedings{chen2024multiobject,
+     title={Multi-Object Hallucination in Vision Language Models},
+     author={Chen, Xuweiyi and Ma, Ziqiao and Zhang, Xuejun and Xu, Sihan and Qian, Shengyi and Yang, Jianing and Fouhey, David and Chai, Joyce},
+     booktitle={3rd Workshop on Advances in Language and Vision Research (ALVR)},
+     year={2024}
    }
    ```
