@@ -13,7 +13,8 @@ def main(model_name, model_size, model_path, device_map, data_base_path, output_
     image_processor = ImageProcessor()
 
     # Evaluation settings and data types
-    settings = ["default", "student-forcing", "teacher-forcing", "single"]
+    # settings = ["default", "student-forcing", "teacher-forcing", "single"]
+    settings = ["teacher-forcing"]
     data_types = ["train", "validation"]
 
     # Iterate through each setting and data type
@@ -39,7 +40,7 @@ def main(model_name, model_size, model_path, device_map, data_base_path, output_
                     for entry in tqdm(entries, desc=f"Entries for {file_name}", leave=False):
                         evaluator.process_entry(entry, acc_list, photo2answer)
                         processed_data.append(entry)
-
+                        print("here" * 10)
                         # Save partial results after processing each entry
                         metrics = evaluator.calculate_metrics(acc_list)
                         data_handler.save_partial_results(processed_data, metrics, photo2answer, output_path, file_name)

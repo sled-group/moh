@@ -1,0 +1,9 @@
+/var/spool/slurm/slurmd/job62974462/slurm_script: line 15: your-path: No such file or directory
+/var/spool/slurm/slurmd/job62974461/slurm_script: line 15: your-path: No such file or directory
+
+
+
+Entries for merged_homogenous_data.json:   7%|▋         | 29/400 [04:29<56:36,  9.16s/it][A[A[A
+
+
+Entries for merged_homogenous_data.json:   8%|▊         | 30/400 [04:38<56:55,  9.23s/it][A[A[A

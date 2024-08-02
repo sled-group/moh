@@ -1,0 +1,1345 @@
+/var/spool/slurm/slurmd/job62974099/slurm_script: line 15: your-path: No such file or directory
+
+
+
+Entries for AAAAB_data.json:  12%|█▏        | 20/168 [05:17<48:47, 19.78s/it][A[A[Aslurmstepd: error: *** JOB 62974099 ON udc-an38-29 CANCELLED AT 2024-08-02T03:03:00 ***
+
+
+
+Entries for AAAAB_data.json:  12%|█▎        | 21/168 [05:25<39:43, 16.21s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  13%|█▎        | 22/168 [05:34<34:36, 14.22s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  14%|█▎        | 23/168 [05:43<30:27, 12.61s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  14%|█▍        | 24/168 [08:05<2:03:21, 51.40s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  15%|█▍        | 25/168 [08:13<1:31:12, 38.27s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  15%|█▌        | 26/168 [08:27<1:13:19, 30.98s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  16%|█▌        | 27/168 [08:36<57:43, 24.57s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:  17%|█▋        | 28/168 [08:44<45:19, 19.42s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  17%|█▋        | 29/168 [08:52<36:59, 15.97s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  18%|█▊        | 30/168 [09:00<31:09, 13.55s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  18%|█▊        | 31/168 [11:19<1:57:15, 51.35s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  19%|█▉        | 32/168 [11:27<1:26:56, 38.36s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  20%|█▉        | 33/168 [11:35<1:05:49, 29.26s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  20%|██        | 34/168 [11:43<51:06, 22.89s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:  21%|██        | 35/168 [11:51<40:39, 18.34s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  21%|██▏       | 36/168 [12:00<34:00, 15.46s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  22%|██▏       | 37/168 [12:08<28:59, 13.28s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  23%|██▎       | 38/168 [12:18<26:36, 12.28s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  23%|██▎       | 39/168 [12:28<24:53, 11.58s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  24%|██▍       | 40/168 [12:36<22:49, 10.70s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  24%|██▍       | 41/168 [12:45<21:19, 10.08s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  25%|██▌       | 42/168 [12:53<19:48,  9.43s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  26%|██▌       | 43/168 [13:02<19:18,  9.27s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  26%|██▌       | 44/168 [13:11<19:05,  9.23s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  27%|██▋       | 45/168 [13:19<17:57,  8.76s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  27%|██▋       | 46/168 [13:27<17:27,  8.59s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  28%|██▊       | 47/168 [15:48<1:37:23, 48.29s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  29%|██▊       | 48/168 [15:56<1:12:31, 36.26s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  29%|██▉       | 49/168 [16:04<55:04, 27.77s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:  30%|██▉       | 50/168 [16:12<43:03, 21.89s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  30%|███       | 51/168 [16:20<34:23, 17.64s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  31%|███       | 52/168 [16:29<29:02, 15.02s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  32%|███▏      | 53/168 [16:37<24:50, 12.96s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  32%|███▏      | 54/168 [16:46<22:10, 11.67s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  33%|███▎      | 55/168 [16:53<19:34, 10.39s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  33%|███▎      | 56/168 [17:01<18:09,  9.73s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  34%|███▍      | 57/168 [17:09<17:08,  9.27s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  35%|███▍      | 58/168 [17:18<16:39,  9.09s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  35%|███▌      | 59/168 [17:26<15:59,  8.81s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  36%|███▌      | 60/168 [17:34<15:25,  8.57s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  36%|███▋      | 61/168 [17:42<14:44,  8.26s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  37%|███▋      | 62/168 [17:50<14:29,  8.21s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  38%|███▊      | 63/168 [17:57<13:53,  7.94s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  38%|███▊      | 64/168 [18:06<14:03,  8.11s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  39%|███▊      | 65/168 [18:14<14:14,  8.30s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  39%|███▉      | 66/168 [18:23<14:13,  8.37s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  40%|███▉      | 67/168 [18:31<14:09,  8.41s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  40%|████      | 68/168 [18:39<13:49,  8.29s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  41%|████      | 69/168 [18:47<13:31,  8.20s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  42%|████▏     | 70/168 [18:55<13:03,  7.99s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  42%|████▏     | 71/168 [19:03<12:48,  7.93s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  43%|████▎     | 72/168 [19:12<13:33,  8.47s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  43%|████▎     | 73/168 [19:45<24:49, 15.67s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  44%|████▍     | 74/168 [20:17<32:25, 20.70s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  45%|████▍     | 75/168 [20:25<25:58, 16.75s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  45%|████▌     | 76/168 [20:32<21:26, 13.98s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  46%|████▌     | 77/168 [20:40<18:28, 12.19s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  46%|████▋     | 78/168 [20:48<16:24, 10.93s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  47%|████▋     | 79/168 [20:58<15:41, 10.58s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  48%|████▊     | 80/168 [21:06<14:16,  9.74s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  48%|████▊     | 81/168 [21:14<13:15,  9.14s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  49%|████▉     | 82/168 [21:23<13:20,  9.31s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  49%|████▉     | 83/168 [21:32<12:58,  9.16s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  50%|█████     | 84/168 [21:40<12:09,  8.68s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  51%|█████     | 85/168 [21:49<12:25,  8.98s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  51%|█████     | 86/168 [24:11<1:06:27, 48.62s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  52%|█████▏    | 87/168 [24:19<49:25, 36.61s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:  52%|█████▏    | 88/168 [24:28<37:33, 28.17s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  53%|█████▎    | 89/168 [24:36<29:07, 22.13s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  54%|█████▎    | 90/168 [24:44<23:15, 17.89s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  54%|█████▍    | 91/168 [24:51<19:04, 14.87s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  55%|█████▍    | 92/168 [25:01<16:54, 13.35s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  55%|█████▌    | 93/168 [25:09<14:35, 11.68s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  56%|█████▌    | 94/168 [27:30<1:02:08, 50.38s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  57%|█████▋    | 95/168 [27:37<45:35, 37.47s/it]  [A[A[A
+
+
+Entries for AAAAB_data.json:  57%|█████▋    | 96/168 [27:46<34:47, 28.99s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  58%|█████▊    | 97/168 [27:55<27:02, 22.86s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  58%|█████▊    | 98/168 [28:03<21:27, 18.40s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  59%|█████▉    | 99/168 [28:12<17:55, 15.59s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  60%|█████▉    | 100/168 [28:19<14:56, 13.18s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  60%|██████    | 101/168 [28:27<12:59, 11.63s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  61%|██████    | 102/168 [28:37<12:10, 11.08s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  61%|██████▏   | 103/168 [28:45<10:55, 10.08s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  62%|██████▏   | 104/168 [28:53<10:10,  9.54s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  62%|██████▎   | 105/168 [29:02<09:41,  9.23s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  63%|██████▎   | 106/168 [29:11<09:28,  9.17s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  64%|██████▎   | 107/168 [29:21<09:35,  9.43s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  64%|██████▍   | 108/168 [29:30<09:18,  9.31s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  65%|██████▍   | 109/168 [29:38<08:55,  9.07s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  65%|██████▌   | 110/168 [29:46<08:27,  8.76s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  66%|██████▌   | 111/168 [29:54<08:02,  8.47s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  67%|██████▋   | 112/168 [30:04<08:15,  8.85s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  67%|██████▋   | 113/168 [30:14<08:21,  9.12s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  68%|██████▊   | 114/168 [30:21<07:46,  8.64s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  68%|██████▊   | 115/168 [30:31<07:56,  8.99s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  69%|██████▉   | 116/168 [30:41<08:03,  9.30s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  70%|██████▉   | 117/168 [33:03<41:38, 49.00s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  70%|███████   | 118/168 [33:12<30:48, 36.96s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  71%|███████   | 119/168 [33:20<23:16, 28.50s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  71%|███████▏  | 120/168 [33:28<17:42, 22.14s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  72%|███████▏  | 121/168 [34:00<19:41, 25.14s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  73%|███████▎  | 122/168 [34:32<20:52, 27.24s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  73%|███████▎  | 123/168 [34:40<16:13, 21.64s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  74%|███████▍  | 124/168 [34:48<12:52, 17.57s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  74%|███████▍  | 125/168 [34:59<11:01, 15.37s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  75%|███████▌  | 126/168 [35:08<09:23, 13.42s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  76%|███████▌  | 127/168 [35:55<16:03, 23.50s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  76%|███████▌  | 128/168 [38:17<39:22, 59.07s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  77%|███████▋  | 129/168 [38:25<28:33, 43.94s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  77%|███████▋  | 130/168 [38:35<21:23, 33.76s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  78%|███████▊  | 131/168 [38:46<16:36, 26.94s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  79%|███████▊  | 132/168 [38:55<12:56, 21.58s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  79%|███████▉  | 133/168 [39:04<10:21, 17.75s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  80%|███████▉  | 134/168 [39:14<08:42, 15.36s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  80%|████████  | 135/168 [39:23<07:22, 13.40s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  81%|████████  | 136/168 [39:40<07:40, 14.38s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  82%|████████▏ | 137/168 [40:01<08:33, 16.57s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  82%|████████▏ | 138/168 [42:23<27:02, 54.09s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  83%|████████▎ | 139/168 [42:32<19:36, 40.58s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  83%|████████▎ | 140/168 [42:40<14:27, 30.98s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  84%|████████▍ | 141/168 [42:57<12:00, 26.70s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  85%|████████▍ | 142/168 [45:19<26:29, 61.14s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  85%|████████▌ | 143/168 [45:28<18:56, 45.45s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  86%|████████▌ | 144/168 [45:36<13:45, 34.39s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  86%|████████▋ | 145/168 [45:45<10:14, 26.72s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  87%|████████▋ | 146/168 [45:53<07:47, 21.25s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  88%|████████▊ | 147/168 [46:02<06:06, 17.44s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  88%|████████▊ | 148/168 [46:10<04:55, 14.76s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  89%|████████▊ | 149/168 [46:20<04:07, 13.05s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  89%|████████▉ | 150/168 [46:28<03:30, 11.72s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  90%|████████▉ | 151/168 [47:00<05:03, 17.85s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  90%|█████████ | 152/168 [47:09<04:01, 15.07s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  91%|█████████ | 153/168 [47:17<03:15, 13.03s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  92%|█████████▏| 154/168 [47:26<02:44, 11.76s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  92%|█████████▏| 155/168 [47:35<02:22, 10.94s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  93%|█████████▎| 156/168 [47:43<02:00, 10.07s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  93%|█████████▎| 157/168 [47:52<01:46,  9.68s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  94%|█████████▍| 158/168 [48:00<01:33,  9.35s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  95%|█████████▍| 159/168 [48:09<01:23,  9.25s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  95%|█████████▌| 160/168 [48:18<01:12,  9.11s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  96%|█████████▌| 161/168 [48:27<01:03,  9.01s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  96%|█████████▋| 162/168 [48:36<00:53,  8.88s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  97%|█████████▋| 163/168 [48:44<00:44,  8.86s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  98%|█████████▊| 164/168 [48:54<00:36,  9.06s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  98%|█████████▊| 165/168 [49:02<00:26,  8.90s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  99%|█████████▉| 166/168 [49:11<00:17,  8.87s/it][A[A[A
+
+
+Entries for AAAAB_data.json:  99%|█████████▉| 167/168 [49:20<00:08,  8.79s/it][A[A[A
+
+
+Entries for AAAAB_data.json: 100%|██████████| 168/168 [49:28<00:00,  8.72s/it][A[A[A
+
+
+                                                                              [A[A[A
+
+Files for train:  20%|██        | 1/5 [49:28<3:17:55, 2968.83s/it][A[A
+
+
+Entries for BAAAA_data.json:   0%|          | 0/168 [00:00<?, ?it/s][A[A[A
+
+
+Entries for BAAAA_data.json:   1%|          | 1/168 [00:09<27:04,  9.73s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   1%|          | 2/168 [00:19<26:57,  9.74s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   2%|▏         | 3/168 [00:27<24:37,  8.96s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   2%|▏         | 4/168 [00:35<23:27,  8.58s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   3%|▎         | 5/168 [02:55<2:32:23, 56.09s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   4%|▎         | 6/168 [03:34<2:15:14, 50.09s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   4%|▍         | 7/168 [03:43<1:38:24, 36.67s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   5%|▍         | 8/168 [03:53<1:14:56, 28.10s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   5%|▌         | 9/168 [04:01<58:13, 21.97s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:   6%|▌         | 10/168 [04:10<46:52, 17.80s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   7%|▋         | 11/168 [04:17<38:32, 14.73s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   7%|▋         | 12/168 [04:25<32:59, 12.69s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   8%|▊         | 13/168 [04:34<29:30, 11.42s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   8%|▊         | 14/168 [04:42<26:28, 10.32s/it][A[A[A
+
+
+Entries for BAAAA_data.json:   9%|▉         | 15/168 [04:50<24:32,  9.62s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  10%|▉         | 16/168 [07:10<2:04:12, 49.03s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  10%|█         | 17/168 [07:20<1:33:52, 37.30s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  11%|█         | 18/168 [07:29<1:11:47, 28.71s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  11%|█▏        | 19/168 [07:38<56:26, 22.73s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:  12%|█▏        | 20/168 [08:10<1:02:58, 25.53s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  12%|█▎        | 21/168 [08:18<49:39, 20.27s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:  13%|█▎        | 22/168 [08:27<41:38, 17.11s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  14%|█▎        | 23/168 [08:37<35:29, 14.69s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  14%|█▍        | 24/168 [10:57<2:05:49, 52.43s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  15%|█▍        | 25/168 [11:05<1:33:02, 39.04s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  15%|█▌        | 26/168 [11:25<1:19:08, 33.44s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  16%|█▌        | 27/168 [11:35<1:01:55, 26.35s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  17%|█▋        | 28/168 [11:43<48:18, 20.71s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:  17%|█▋        | 29/168 [11:51<39:10, 16.91s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  18%|█▊        | 30/168 [11:59<32:46, 14.25s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  18%|█▊        | 31/168 [14:19<1:58:53, 52.07s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  19%|█▉        | 32/168 [14:27<1:27:55, 38.79s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  20%|█▉        | 33/168 [14:34<1:06:20, 29.48s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  20%|██        | 34/168 [14:42<51:17, 22.97s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:  21%|██        | 35/168 [14:50<40:37, 18.33s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  21%|██▏       | 36/168 [14:58<33:51, 15.39s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  22%|██▏       | 37/168 [15:06<28:46, 13.18s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  23%|██▎       | 38/168 [15:16<26:19, 12.15s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  23%|██▎       | 39/168 [15:26<24:35, 11.44s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  24%|██▍       | 40/168 [15:35<22:52, 10.72s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  24%|██▍       | 41/168 [15:43<21:19, 10.07s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  25%|██▌       | 42/168 [15:51<19:45,  9.41s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  26%|██▌       | 43/168 [16:00<19:13,  9.22s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  26%|██▌       | 44/168 [16:09<18:56,  9.16s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  27%|██▋       | 45/168 [16:17<17:47,  8.68s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  27%|██▋       | 46/168 [16:25<17:17,  8.50s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  28%|██▊       | 47/168 [16:33<16:52,  8.37s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  29%|██▊       | 48/168 [16:41<16:30,  8.26s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  29%|██▉       | 49/168 [16:48<15:56,  8.03s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  30%|██▉       | 50/168 [16:56<15:47,  8.03s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  30%|███       | 51/168 [17:04<15:31,  7.96s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  31%|███       | 52/168 [17:13<15:51,  8.20s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  32%|███▏      | 53/168 [17:21<15:36,  8.15s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  32%|███▏      | 54/168 [17:29<15:25,  8.12s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  33%|███▎      | 55/168 [17:37<14:59,  7.96s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  33%|███▎      | 56/168 [17:45<14:53,  7.98s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  34%|███▍      | 57/168 [17:54<15:46,  8.53s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  35%|███▍      | 58/168 [18:02<15:19,  8.36s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  35%|███▌      | 59/168 [18:10<14:59,  8.26s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  36%|███▌      | 60/168 [18:18<14:28,  8.04s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  36%|███▋      | 61/168 [18:25<14:04,  7.89s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  37%|███▋      | 62/168 [18:34<14:01,  7.94s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  38%|███▊      | 63/168 [18:41<13:33,  7.74s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  38%|███▊      | 64/168 [18:49<13:50,  7.99s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  39%|███▊      | 65/168 [18:58<14:07,  8.23s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  39%|███▉      | 66/168 [19:07<14:07,  8.31s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  40%|███▉      | 67/168 [19:15<14:06,  8.38s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  40%|████      | 68/168 [19:23<13:38,  8.19s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  41%|████      | 69/168 [19:31<13:18,  8.06s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  42%|████▏     | 70/168 [19:38<12:55,  7.91s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  42%|████▏     | 71/168 [19:46<12:43,  7.87s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  43%|████▎     | 72/168 [19:56<13:29,  8.43s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  43%|████▎     | 73/168 [20:10<16:03, 10.14s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  44%|████▍     | 74/168 [20:42<26:18, 16.80s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  45%|████▍     | 75/168 [20:50<21:50, 14.09s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  45%|████▌     | 76/168 [20:58<18:36, 12.13s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  46%|████▌     | 77/168 [21:06<16:31, 10.89s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  46%|████▋     | 78/168 [21:14<15:03, 10.04s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  47%|████▋     | 79/168 [21:23<14:45,  9.95s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  48%|████▊     | 80/168 [21:31<13:32,  9.23s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  48%|████▊     | 81/168 [21:39<12:45,  8.80s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  49%|████▉     | 82/168 [21:48<13:01,  9.09s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  49%|████▉     | 83/168 [21:57<12:44,  8.99s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  50%|█████     | 84/168 [22:05<11:59,  8.56s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  51%|█████     | 85/168 [22:15<12:19,  8.92s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  51%|█████     | 86/168 [24:35<1:06:07, 48.38s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  52%|█████▏    | 87/168 [24:44<49:11, 36.44s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:  52%|█████▏    | 88/168 [24:52<37:26, 28.08s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  53%|█████▎    | 89/168 [25:00<29:02, 22.06s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  54%|█████▎    | 90/168 [25:08<23:11, 17.85s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  54%|█████▍    | 91/168 [25:16<19:02, 14.83s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  55%|█████▍    | 92/168 [25:26<16:51, 13.30s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  55%|█████▌    | 93/168 [25:33<14:22, 11.50s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  56%|█████▌    | 94/168 [27:53<1:01:51, 50.16s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  57%|█████▋    | 95/168 [28:01<45:30, 37.40s/it]  [A[A[A
+
+
+Entries for BAAAA_data.json:  57%|█████▋    | 96/168 [28:10<34:34, 28.81s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  58%|█████▊    | 97/168 [28:18<26:54, 22.74s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  58%|█████▊    | 98/168 [28:26<21:24, 18.35s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  59%|█████▉    | 99/168 [28:36<17:53, 15.56s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  60%|█████▉    | 100/168 [28:43<14:59, 13.23s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  60%|██████    | 101/168 [28:51<13:02, 11.67s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  61%|██████    | 102/168 [29:00<11:53, 10.81s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  61%|██████▏   | 103/168 [29:08<10:43,  9.90s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  62%|██████▏   | 104/168 [29:16<09:58,  9.35s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  62%|██████▎   | 105/168 [29:25<09:34,  9.12s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  63%|██████▎   | 106/168 [29:34<09:24,  9.10s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  64%|██████▎   | 107/168 [29:44<09:31,  9.37s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  64%|██████▍   | 108/168 [29:53<09:15,  9.27s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  65%|██████▍   | 109/168 [30:01<08:55,  9.07s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  65%|██████▌   | 110/168 [30:09<08:28,  8.76s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  66%|██████▌   | 111/168 [30:17<08:03,  8.48s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  67%|██████▋   | 112/168 [30:27<08:15,  8.85s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  67%|██████▋   | 113/168 [30:37<08:23,  9.15s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  68%|██████▊   | 114/168 [30:45<07:56,  8.82s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  68%|██████▊   | 115/168 [30:55<08:02,  9.10s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  69%|██████▉   | 116/168 [31:05<08:07,  9.38s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  70%|██████▉   | 117/168 [33:26<41:43, 49.09s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  70%|███████   | 118/168 [33:35<30:50, 37.01s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  71%|███████   | 119/168 [33:44<23:25, 28.69s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  71%|███████▏  | 120/168 [33:52<17:49, 22.28s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  72%|███████▏  | 121/168 [34:00<14:13, 18.16s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  73%|███████▎  | 122/168 [34:32<17:08, 22.35s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  73%|███████▎  | 123/168 [34:41<13:39, 18.21s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  74%|███████▍  | 124/168 [34:49<11:07, 15.17s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  74%|███████▍  | 125/168 [34:59<09:49, 13.71s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  75%|███████▌  | 126/168 [35:08<08:33, 12.23s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  76%|███████▌  | 127/168 [35:45<13:24, 19.63s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  76%|███████▌  | 128/168 [38:07<37:28, 56.21s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  77%|███████▋  | 129/168 [38:15<27:15, 41.92s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  77%|███████▋  | 130/168 [38:25<20:26, 32.27s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  78%|███████▊  | 131/168 [38:36<15:58, 25.91s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  79%|███████▊  | 132/168 [38:45<12:33, 20.92s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  79%|███████▉  | 133/168 [38:54<10:04, 17.28s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  80%|███████▉  | 134/168 [39:04<08:30, 15.02s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  80%|████████  | 135/168 [39:13<07:13, 13.14s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  81%|████████  | 136/168 [39:22<06:23, 11.98s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  82%|████████▏ | 137/168 [39:56<09:40, 18.71s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  82%|████████▏ | 138/168 [40:06<08:01, 16.04s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  83%|████████▎ | 139/168 [40:15<06:44, 13.96s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  83%|████████▎ | 140/168 [40:24<05:45, 12.33s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  84%|████████▍ | 141/168 [40:40<06:08, 13.63s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  85%|████████▍ | 142/168 [43:02<22:31, 51.99s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  85%|████████▌ | 143/168 [43:11<16:16, 39.05s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  86%|████████▌ | 144/168 [43:19<11:57, 29.91s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  86%|████████▋ | 145/168 [43:28<09:02, 23.59s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  87%|████████▋ | 146/168 [43:37<06:59, 19.07s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  88%|████████▊ | 147/168 [43:45<05:34, 15.91s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  88%|████████▊ | 148/168 [43:54<04:34, 13.70s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  89%|████████▊ | 149/168 [44:03<03:53, 12.31s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  89%|████████▉ | 150/168 [44:11<03:21, 11.18s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  90%|████████▉ | 151/168 [46:33<14:14, 50.27s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  90%|█████████ | 152/168 [46:41<10:04, 37.78s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  91%|█████████ | 153/168 [46:50<07:15, 29.02s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  92%|█████████▏| 154/168 [46:59<05:21, 22.98s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  92%|█████████▏| 155/168 [47:08<04:04, 18.79s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  93%|█████████▎| 156/168 [47:16<03:06, 15.57s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  93%|█████████▎| 157/168 [47:25<02:28, 13.53s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  94%|█████████▍| 158/168 [47:33<02:00, 12.04s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  95%|█████████▍| 159/168 [47:42<01:40, 11.14s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  95%|█████████▌| 160/168 [47:51<01:23, 10.44s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  96%|█████████▌| 161/168 [48:00<01:10, 10.02s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  96%|█████████▋| 162/168 [48:09<00:57,  9.59s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  97%|█████████▋| 163/168 [48:18<00:46,  9.36s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  98%|█████████▊| 164/168 [48:50<01:04, 16.19s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  98%|█████████▊| 165/168 [48:58<00:41, 13.92s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  99%|█████████▉| 166/168 [49:07<00:24, 12.38s/it][A[A[A
+
+
+Entries for BAAAA_data.json:  99%|█████████▉| 167/168 [49:16<00:11, 11.24s/it][A[A[A
+
+
+Entries for BAAAA_data.json: 100%|██████████| 168/168 [49:24<00:00, 10.45s/it][A[A[A
+
+
+                                                                              [A[A[A
+
+Files for train:  40%|████      | 2/5 [1:38:53<2:28:19, 2966.47s/it][A[A
+
+
+Entries for merged_heterogenous_data.json:   0%|          | 0/312 [00:00<?, ?it/s][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   0%|          | 1/312 [00:07<40:08,  7.75s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   1%|          | 2/312 [00:15<41:33,  8.04s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   1%|          | 3/312 [00:25<45:51,  8.90s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   1%|▏         | 4/312 [00:34<45:28,  8.86s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   2%|▏         | 5/312 [00:44<46:54,  9.17s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   2%|▏         | 6/312 [00:51<43:55,  8.61s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   2%|▏         | 7/312 [01:00<43:11,  8.50s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   3%|▎         | 8/312 [01:08<42:16,  8.34s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   3%|▎         | 9/312 [01:16<41:35,  8.24s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   3%|▎         | 10/312 [01:26<43:49,  8.71s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   4%|▎         | 11/312 [01:34<42:38,  8.50s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   4%|▍         | 12/312 [01:42<42:09,  8.43s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   4%|▍         | 13/312 [01:50<42:10,  8.46s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   4%|▍         | 14/312 [01:59<41:48,  8.42s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   5%|▍         | 15/312 [02:07<41:10,  8.32s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   5%|▌         | 16/312 [02:21<49:46, 10.09s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   5%|▌         | 17/312 [02:31<49:04,  9.98s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   6%|▌         | 18/312 [02:39<46:23,  9.47s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   6%|▌         | 19/312 [02:48<45:09,  9.25s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   6%|▋         | 20/312 [03:09<1:03:01, 12.95s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   7%|▋         | 21/312 [03:18<56:18, 11.61s/it]  [A[A[A
+
+
+Entries for merged_heterogenous_data.json:   7%|▋         | 22/312 [03:26<50:54, 10.53s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   7%|▋         | 23/312 [03:49<1:08:26, 14.21s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   8%|▊         | 24/312 [03:57<59:38, 12.42s/it]  [A[A[A
+
+
+Entries for merged_heterogenous_data.json:   8%|▊         | 25/312 [04:07<55:33, 11.61s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   8%|▊         | 26/312 [04:14<49:32, 10.39s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   9%|▊         | 27/312 [04:23<46:39,  9.82s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   9%|▉         | 28/312 [04:31<43:56,  9.28s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:   9%|▉         | 29/312 [04:40<43:40,  9.26s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  10%|▉         | 30/312 [04:48<41:24,  8.81s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  10%|▉         | 31/312 [04:58<42:54,  9.16s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  10%|█         | 32/312 [05:05<40:49,  8.75s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  11%|█         | 33/312 [05:14<40:22,  8.68s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  11%|█         | 34/312 [05:23<40:15,  8.69s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  11%|█         | 35/312 [05:31<39:10,  8.49s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  12%|█▏        | 36/312 [05:39<38:43,  8.42s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  12%|█▏        | 37/312 [05:47<38:01,  8.30s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  12%|█▏        | 38/312 [05:55<37:10,  8.14s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  12%|█▎        | 39/312 [06:05<39:50,  8.76s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  13%|█▎        | 40/312 [06:13<38:26,  8.48s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  13%|█▎        | 41/312 [06:21<38:15,  8.47s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  13%|█▎        | 42/312 [06:29<37:48,  8.40s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  14%|█▍        | 43/312 [06:37<37:06,  8.28s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  14%|█▍        | 44/312 [06:45<36:19,  8.13s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  14%|█▍        | 45/312 [06:53<36:04,  8.11s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  15%|█▍        | 46/312 [07:04<39:02,  8.81s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  15%|█▌        | 47/312 [07:12<37:53,  8.58s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  15%|█▌        | 48/312 [07:19<36:20,  8.26s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  16%|█▌        | 49/312 [07:29<38:30,  8.78s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  16%|█▌        | 50/312 [07:37<37:19,  8.55s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  16%|█▋        | 51/312 [07:45<36:11,  8.32s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  17%|█▋        | 52/312 [07:53<36:14,  8.36s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  17%|█▋        | 53/312 [08:01<35:40,  8.26s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  17%|█▋        | 54/312 [08:10<35:31,  8.26s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  18%|█▊        | 55/312 [08:17<34:25,  8.04s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  18%|█▊        | 56/312 [08:25<34:33,  8.10s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  18%|█▊        | 57/312 [08:34<34:37,  8.15s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  19%|█▊        | 58/312 [08:42<34:40,  8.19s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  19%|█▉        | 59/312 [08:51<34:54,  8.28s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  19%|█▉        | 60/312 [09:00<36:36,  8.72s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  20%|█▉        | 61/312 [09:08<35:52,  8.58s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  20%|█▉        | 62/312 [09:17<35:19,  8.48s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  20%|██        | 63/312 [09:25<34:36,  8.34s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  21%|██        | 64/312 [09:33<34:05,  8.25s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  21%|██        | 65/312 [09:41<33:56,  8.25s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  21%|██        | 66/312 [09:50<34:06,  8.32s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  21%|██▏       | 67/312 [09:58<33:56,  8.31s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  22%|██▏       | 68/312 [10:08<35:49,  8.81s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  22%|██▏       | 69/312 [10:16<35:16,  8.71s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  22%|██▏       | 70/312 [10:25<34:33,  8.57s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  23%|██▎       | 71/312 [11:45<2:01:22, 30.22s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  23%|██▎       | 72/312 [11:53<1:33:59, 23.50s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  23%|██▎       | 73/312 [12:02<1:15:43, 19.01s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  24%|██▎       | 74/312 [12:10<1:02:33, 15.77s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  24%|██▍       | 75/312 [12:18<53:06, 13.44s/it]  [A[A[A
+
+
+Entries for merged_heterogenous_data.json:  24%|██▍       | 76/312 [12:26<46:12, 11.75s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  25%|██▍       | 77/312 [12:34<41:53, 10.70s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  25%|██▌       | 78/312 [12:42<38:52,  9.97s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  25%|██▌       | 79/312 [12:50<36:45,  9.47s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  26%|██▌       | 80/312 [12:59<35:28,  9.18s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  26%|██▌       | 81/312 [13:07<34:34,  8.98s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  26%|██▋       | 82/312 [13:16<33:50,  8.83s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  27%|██▋       | 83/312 [13:24<33:05,  8.67s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  27%|██▋       | 84/312 [13:33<32:47,  8.63s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  27%|██▋       | 85/312 [13:43<34:09,  9.03s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  28%|██▊       | 86/312 [13:51<33:23,  8.86s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  28%|██▊       | 87/312 [14:00<32:48,  8.75s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  28%|██▊       | 88/312 [14:08<32:10,  8.62s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  29%|██▊       | 89/312 [14:17<31:56,  8.59s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  29%|██▉       | 90/312 [14:33<41:03, 11.10s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  29%|██▉       | 91/312 [14:42<37:45, 10.25s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  29%|██▉       | 92/312 [14:50<34:52,  9.51s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  30%|██▉       | 93/312 [14:58<33:20,  9.14s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  30%|███       | 94/312 [15:06<31:58,  8.80s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  30%|███       | 95/312 [15:13<30:27,  8.42s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  31%|███       | 96/312 [15:22<30:11,  8.38s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  31%|███       | 97/312 [15:30<30:11,  8.42s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  31%|███▏      | 98/312 [15:38<29:04,  8.15s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  32%|███▏      | 99/312 [15:46<29:04,  8.19s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  32%|███▏      | 100/312 [15:54<28:28,  8.06s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  32%|███▏      | 101/312 [16:02<28:51,  8.21s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  33%|███▎      | 102/312 [16:11<28:46,  8.22s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  33%|███▎      | 103/312 [16:19<28:39,  8.23s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  33%|███▎      | 104/312 [16:27<28:34,  8.24s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  34%|███▎      | 105/312 [16:36<28:43,  8.32s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  34%|███▍      | 106/312 [16:44<28:16,  8.23s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  34%|███▍      | 107/312 [16:52<27:55,  8.17s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  35%|███▍      | 108/312 [17:00<27:40,  8.14s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  35%|███▍      | 109/312 [17:08<27:56,  8.26s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  35%|███▌      | 110/312 [17:16<27:38,  8.21s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  36%|███▌      | 111/312 [17:24<27:05,  8.09s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  36%|███▌      | 112/312 [17:32<26:40,  8.00s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  36%|███▌      | 113/312 [17:40<26:33,  8.01s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  37%|███▋      | 114/312 [17:50<28:23,  8.60s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  37%|███▋      | 115/312 [17:58<27:42,  8.44s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  37%|███▋      | 116/312 [18:06<27:37,  8.46s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  38%|███▊      | 117/312 [18:16<28:43,  8.84s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  38%|███▊      | 118/312 [18:24<27:47,  8.60s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  38%|███▊      | 119/312 [18:35<29:30,  9.17s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  38%|███▊      | 120/312 [18:43<28:13,  8.82s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  39%|███▉      | 121/312 [18:51<27:31,  8.65s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  39%|███▉      | 122/312 [18:59<26:46,  8.46s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  39%|███▉      | 123/312 [19:07<26:14,  8.33s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  40%|███▉      | 124/312 [19:15<25:21,  8.09s/it][A[A[A
+
+
+Entries for merged_heterogenous_data.json:  40%|████      | 125/312 [19:23<25:37,  8.22s/it][A[A[A

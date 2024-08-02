@@ -148,9 +148,9 @@ class SingleObjectEvaluation(EvaluationBase):
 
             prompt = self._generate_prompt(index, entry["data_source"])
             processed_image = self.image_processor.preprocess_image(image)
-            predicted_class = self.model_handler.generate_response(prompt, processed_image)
-            entry["objects"][index - 1]["prediction"] = predicted_class
-            photo2answer[image_path.split("/")[-1] + "-" + str(index)] = predicted_class
+            predicted_class = self.model_handler.generate_response(prompt, processed_image)[0]
+            entry["objects"][index - 1]["prediction"] = predicted_class.lower()
+            photo2answer[image_path.split("/")[-1] + "-" + str(index)] = predicted_class.lower()
 
             true_class = entry["objects"][index - 1]["name"].lower()
             pred_class = predicted_class.lower()
@@ -162,7 +162,6 @@ class SingleObjectEvaluation(EvaluationBase):
                 self.correct_predictions += 1
                 acc_list[index - 1] += 1
         self.total_predictions += 5
-
 
 class MultiObjectEvaluation(EvaluationBase):
     def segment_classes(self, response):
@@ -226,7 +225,7 @@ class MultiObjectEvaluation(EvaluationBase):
 
         prompt = self._generate_prompt(entry["data_source"])
         processed_image = self.image_processor.preprocess_image(image)
-        predicted_class = self.model_handler.generate_response(prompt, processed_image)
+        predicted_class = self.model_handler.generate_response(prompt, processed_image)[0]
         photo2answer[image_path.split("/")[-1]] = predicted_class
         try:
             predicted_class = self.segment_classes(predicted_class)
@@ -260,9 +259,17 @@ class StudentForcingEvaluation(EvaluationBase):
         Returns:
             list: A list of segmented class labels.
         """
-        segments = response.split(", ")
-        classes = [segment.split(": ")[1] for segment in segments]
-        return classes
+        class_str = None
+        length_classes = 0
+        if response.startswith("obj1"):
+            segments = response.split(", ")
+            class_str = [segment.split(": ")[1] for segment in segments][0]
+            length_classes = 5
+        else:
+            segments = response.split(", ")
+            class_str = segments[0]
+            length_classes = len(segments)
+        return class_str, length_classes
     
     def _generate_prompt(self, dataset_name):
         """
@@ -305,7 +312,7 @@ class StudentForcingEvaluation(EvaluationBase):
         Returns:
             None
         """
-        prompt = self._generate_prompt(entry["data_source"])
+        prompt = self._generate_prompt(entry["data_source"]) + " ASSISTANT:"
         for index in range(1, 6):  # Each entry has 5 objects
             image_path = self.dataset_path + entry["folder"].replace("jpg", "png")
             image = Image.open(image_path)
@@ -316,20 +323,21 @@ class StudentForcingEvaluation(EvaluationBase):
                 cumulative_prompt = cumulative_prompt + f", obj{index}:"
             
             processed_image = self.image_processor.preprocess_image(image)
-            predicted_class_str = self.model_handler.generate_response(cumulative_prompt, processed_image)
+            predicted_class_str = self.model_handler.generate_response(cumulative_prompt, processed_image)[0]
+            print("predicted_class_str: ", predicted_class_str)
             try:
-                predicted_class = self.segment_classes(predicted_class_str)
+                predicted_class, length_predicted_class = self.segment_classes(predicted_class_str)
                 print("predicted_class: ", predicted_class)
             except Exception as e:
                 self.total_predictions += 5 - index + 1
                 break
             
             photo2answer[image_path.split("/")[-1] + "-" + str(index)] = predicted_class_str
-            if len(predicted_class) >= index:
-                entry["objects"][index - 1]["prediction"] = predicted_class[index - 1]
+            if length_predicted_class >= 5 - index:
+                entry["objects"][index - 1]["prediction"] = predicted_class
 
                 true_class = entry["objects"][index - 1]["name"].lower()
-                pred_class = predicted_class[index - 1].lower()
+                pred_class = predicted_class.lower()
                 
                 cumulative_prompt += " " + pred_class
 
@@ -355,9 +363,17 @@ class TeacherForcingEvaluation(EvaluationBase):
         Returns:
             list: A list of segmented class labels.
         """
-        segments = response.split(", ")
-        classes = [segment.split(": ")[1] for segment in segments]
-        return classes
+        class_str = None
+        length_classes = 0
+        if response.startswith("obj1"):
+            segments = response.split(", ")
+            class_str = [segment.split(": ")[1] for segment in segments][0]
+            length_classes = 5
+        else:
+            segments = response.split(", ")
+            class_str = segments[0]
+            length_classes = len(segments)
+        return class_str, length_classes
     
     def _generate_prompt(self, dataset_name):
         """
@@ -400,7 +416,7 @@ class TeacherForcingEvaluation(EvaluationBase):
         Returns:
             None
         """
-        prompt = self._generate_prompt(entry["data_source"])
+        prompt = self._generate_prompt(entry["data_source"]) + " ASSISTANT:"
         for index in range(1, 6):  # Each entry has 5 objects
             image_path = self.dataset_path + entry["folder"].replace("jpg", "png")
             image = Image.open(image_path)
@@ -411,20 +427,21 @@ class TeacherForcingEvaluation(EvaluationBase):
                 cumulative_prompt = cumulative_prompt + f", obj{index}:"
             
             processed_image = self.image_processor.preprocess_image(image)
-            predicted_class_str = self.model_handler.generate_response(cumulative_prompt, processed_image)
+            predicted_class_str = self.model_handler.generate_response(cumulative_prompt, processed_image)[0]
+            print("predicted_class_str: ", predicted_class_str)
             try:
-                predicted_class = self.segment_classes(predicted_class_str)
+                predicted_class, length_predicted_class = self.segment_classes(predicted_class_str)
                 print("predicted_class: ", predicted_class)
             except Exception as e:
                 self.total_predictions += 5 - index + 1
                 break
             
             photo2answer[image_path.split("/")[-1] + "-" + str(index)] = predicted_class_str
-            if len(predicted_class) >= index:
-                entry["objects"][index - 1]["prediction"] = predicted_class[index - 1]
+            if length_predicted_class >= 5 - index:
+                entry["objects"][index - 1]["prediction"] = predicted_class
 
                 true_class = entry["objects"][index - 1]["name"].lower()
-                pred_class = predicted_class[index - 1].lower()
+                pred_class = predicted_class.lower()
                 
                 cumulative_prompt += " " + true_class
 
