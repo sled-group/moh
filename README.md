@@ -25,6 +25,7 @@ This repository is the official tools for
 ### [Project page](https://multi-object-hallucination.github.io/) | [Paper](https://arxiv.org/abs/2407.06192) | [Dataset 🪢](https://huggingface.co/datasets/sled-umich/ROPE)
 ## Updates🔥 
 
+- This paper has been accepted to NeurIPS 2024!
 - This paper has been accepted to ALVR @ ACL 2024!
 - Our dataset ROPE is released!
 
