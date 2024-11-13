@@ -77,6 +77,7 @@ We welcome all the issues regarding uses or data. Please post them in the issues
 
 ## Overview Video:
 https://recorder-v3.slideslive.com/?share=97194&s=409986d7-2897-4a09-b773-2ec6f7555888
+Use Google Chrome if you can't open the link.
 
 ## Citation :fountain_pen: 
 
